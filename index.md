@@ -7,7 +7,7 @@ This is a summary of all the games made by me and my kids, mostly for fun in our
 
 ![metro squares](images/metrosquares.jpg)
 
-This was my first game that I published in the windows store.  
+This was my first game that I published in the windows store.  The funny thing is, these first few games, aren't really using any sort of game framework at all but just the Metro Xaml UI that came out with Windows 8.
 
 #### Developer Notes
 
@@ -31,10 +31,9 @@ This was my first game that I published in the windows store.
 
 #### Developer Notes
 
-At the Microsoft Build Conference in 2012, we attended a Hackathon during where we had **24 hours** to 
+- At the Microsoft Build Conference in 2012, we attended a Hackathon during where we had **24 hours** to 
 build something using the new Metro UI that Microsoft had recently released for Windows 8.  
-
-If I recall correctly, we won **$500** for taking 2nd place in our category.
+- If I recall correctly, we won **$500** for taking 2nd place in our category.
 
 ---
 ### Psychic Cards - 2012 Windows Store App
@@ -67,7 +66,7 @@ If I recall correctly, we won **$500** for taking 2nd place in our category.
 
 #### Statistics
 
-This has been downloaded over 285,000+ times, and has earned over $20k
+This has been downloaded over **285,000+** times
 
 #### Download Link 
 
