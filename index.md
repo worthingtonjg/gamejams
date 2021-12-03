@@ -153,12 +153,27 @@ You wake up locked in a prison cell. You are plagued with repeated out of body l
 - [http://worthingtonjg.github.io/NoEscape/](http://worthingtonjg.github.io/NoEscape/){:target="_blank"}
 
 ---
-### Utah Indie Game Jam 2015 - Theme: What do we do now?
-Survive Oblivion
-https://cypherjw.itch.io/oblivion-the-secret-of-survival
+### Survive Oblivion - 2015 Utah Indie Game Jam 
+![surviveoblivion](images/surviveoblivion.png)
+The theme for this 48 hour game jam was "What do we do now".  
+
+The year is 2000 AO (After Oblivion). An alien race far superior in technology has assaulted earth. You are the team leader of an elite stealth element called G.S.O.C.1 and your survival depends on keeping your presence a SECRET!
+
 #### Developer Notes
-#### Statistics
-#### Download Link
+- We got voted by our peers 3rd place overall, which was awesome. 
+- We did the 2d artwork ourselves (you can tell - it's pretty bad)
+- Nathan did all the modeling for the 3d art work (which is actually pretty good).
+- The textures we got from the asset store.
+- All the camera work and programming was me
+
+#### Itch.IO Link
+- [https://cypherjw.itch.io/oblivion-the-secret-of-survival](https://cypherjw.itch.io/oblivion-the-secret-of-survival)
+
+#### Github Link
+- [https://github.com/worthingtonjg/survive_oblivion](https://github.com/worthingtonjg/survive_oblivion)
+
+#### Play the Game
+- [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/)
 
 ---
 ### LDS Tech Game Contest 2015
