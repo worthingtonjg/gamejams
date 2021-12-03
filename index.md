@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/worthingtonjg/gamejams/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a summary of all the game jams and games made by me and my kids, mostly for fun in our spare time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2012 Metro Squares - 1st Windows Store Game
+https://devpost.com/software/metro-squares
 
-### Markdown
+### 2012 Microsoft Hackathon
+Jungle Chess - won $500
+https://devpost.com/software/jungle-chess-build-2012-hackathon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2012 Psychic Cards
+https://devpost.com/software/psychic-cards
 
-```markdown
-Syntax highlighted code block
+### 2013 Sudoku Win8 - made about $20k
+https://devpost.com/software/sudoku-win8
 
-# Header 1
-## Header 2
-### Header 3
+### 2013 Sudoku Slider
+https://devpost.com/software/sudoku-slider
 
-- Bulleted
-- List
+### Side project with co-worker
+2013 Cube Genuis - made about $
+https://devpost.com/software/cube-genius
 
-1. Numbered
-2. List
+### LDS Tech Game Contest 2014
+Mana Mania
+https://devpost.com/software/manna-mania
+Won Honorable Mention
 
-**Bold** and _Italic_ and `Code` text
+### 2014 First project with Nathan
+https://devpost.com/software/stop-the-alien-invasion
 
-[Link](url) and ![Image](src)
-```
+### Global Game Jam 2015 
+No Escape
+https://globalgamejam.org/2015/games/no-escape
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Utah Indie Game Jam 2015 - Theme: What do we do now?
+Survive Oblivion
+https://cypherjw.itch.io/oblivion-the-secret-of-survival
 
-### Jekyll Themes
+### LDS Tech Game Contest 2015
+Book of Mormon Adventure
+https://devpost.com/software/book-of-mormon-adventures
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/worthingtonjg/gamejams/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Microsoft Build 2016 Hackathon
+Virtual Band
+https://devpost.com/software/virtual-band-0xcgwp
 
-### Support or Contact
+### Global Game Jam 2016 - Theme: Ritual
+Relic Hunter
+https://globalgamejam.org/2016/games/relic-hunter
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### AttackBots 
+https://github.com/worthingtonjg/AttackBots
+
+### Utah Indie Game Jam 2016 - Hidden
+Hololens - Zombie Ship
+https://cypherjw.itch.io/hololens-the-hidden-facility
+Won Audience Choice Award (1st of 15)
+
+### Smooch That Fish
+https://itch.io/jam/utah-indie-game-jam-2016/rate/90265
+Won Award for Most Educational
+
+### Global Game Jam 2017 - Waves
+Laugh Kingdom
+https://globalgamejam.org/2017/games/laugh-kingdom
+
+### Utah Indie Game Jam 2017 - Pacifist
+Crazy Pacifist Quote Generator
+https://cypherjw.itch.io/talking-pacifists
+Won Left Field Award
+
+Pacifist of War 
+https://itch.io/jam/utah-indie-game-jam-2017/rate/186220
+
+Penguin Pacifist
+https://itch.io/jam/utah-indie-game-jam-2017/rate/186217
+
+### Global Game Jam 2018 - Transmission
+Tran - A Tron Spoof
+https://globalgamejam.org/2018/games/tran-tron-spoof
+
+### Global Game Jam 2019 - What home means to you
+Space Guardian
+https://globalgamejam.org/2019/games/space-guardian
+
+### Utah Indie Game Jam 2019 - Theme: You are What You Eat
+Love Potion
+https://cypherjw.itch.io/love-potion
+Won Best Narrative and Best Use of Tech
+
+### Global Game Jam 2020 - Theme: Repair
+Drift racer
+https://globalgamejam.org/2020/games/alien-wars-6
+
+### Utah Indie Game Jam 2021 - Theme: Reincarnation
+Dr Strange
+https://cypherjw.itch.io/dr-strange
+Won Best Narrative
+	Nathan -  Level Design, Animation Rigging
+	Ryan - Level Design, Sounds, Music and Animation Rigging
+	Jon - Story Line, Cut Scenes and Programming
+
