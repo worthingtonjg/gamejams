@@ -211,9 +211,11 @@ https://globalgamejam.org/2019/games/space-guardian
 #### Download Link
 
 ---
-### Utah Indie Game Jam 2019 - Theme: You are What You Eat
+### Utah Indie Game Jam 2019 
 Love Potion
 !(lovepotion)[images/lovepotion.png]
+
+The theme for this 48 hour game jam is "You are what you eat"
 
 A love potion goes terribly wrong turning you into a monster - can you find the ingredients to turn yourself handsome enough and marry the princess?
 
@@ -228,12 +230,14 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 - 5 different enemies
 - And lets you control 5 different player controllers as Jim gets morphed by the potion.
 - Ryan learned how to use Gaia to generate the terrian
-- Ryan also learned about animation controllers
+- Ryan also learned how setup animation controllers
 - Ryan did all the voice overs and sounds for the enemies 
+- Nathan did modeling and helped with the level design
+- I did all the cutscenes, and programming
 
 #### Statistics
 - Won Best Narrative 
-- Won Best Use of Tech 
+- AND Best Use of Tech!
 
 #### Download Link
 - [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion)
@@ -243,7 +247,9 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 
 ![driftracer](images/driftracer.png)
 
-In this 48 hour game jam, the theme was Repair.  In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. Collect parts to repair and upgrade your ship! 
+- In this 48 hour game jam, the theme was "Repair".  
+- In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. 
+- Collect parts to repair and upgrade your ship! 
 
 #### Challenges
 - Ryan did all the pixel art!
@@ -255,19 +261,20 @@ In this 48 hour game jam, the theme was Repair.  In Drift Racer choose from 8+ s
 - Me, Nathan and Ryan
 
 #### Global Game Jam Link
-[https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
+- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
 
 #### Github Repo
-[https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
+- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
 
 #### Play the game
-[https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
+- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
 
 ---
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
+
 ![drstrange](images/drstrange.png)
 
-The theme for this 48 hour Game Jam was **Reincarnation**.  
+- Meet Dr. Strange!  He is a crazy scientist obsessed with discovering the secret to **reincarnation (the theme)** at all costs.
 
 #### Challenges
 - What made this game jam more challenging was that both Nathan and Ryan had to work most of Saturday, so had less time to help.
@@ -284,7 +291,8 @@ The theme for this 48 hour Game Jam was **Reincarnation**.
 
 #### Result
 
-We won the award for Best Narrative.
+- We won the award for Best Narrative.
 
 #### Play the game
-[https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange)
+
+- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange){:target="_blank"}
