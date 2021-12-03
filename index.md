@@ -91,7 +91,7 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 
 ---
 ### 2013 Cube Genuis
-![cubegenius](images/cubegenius.jpg)
+![cubegenius](images/cubegenuis.png)
 Amaze your friends and family by learning to solve the cube. You can compete against other players worldwide to see who can solve the cube the fastest and in the fewest moves. This app is the only FREE cube app in the Windows Store that lets you actually solve the cube. Become a Cube Genius today!
 #### Developer Notes
 - I developed this with a co-worker
