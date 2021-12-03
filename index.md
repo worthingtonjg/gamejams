@@ -43,15 +43,15 @@ If I recall correctly, we won **$500** for taking 2nd place in our category.
 
 #### Developer Notes
 
-After coming back from the Microsoft Build Conference, I was still messing around with the new UI features, and wrote this.
+- After coming back from the Microsoft Build Conference, I was still messing around with the new UI features, and wrote this.
 
 #### Statistics
 
-It has been downloaded **3000+** times from the Microsoft Store
+- This game has been downloaded **3000+** times from the Microsoft Store
 
 #### Download Link 
 
-[https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards)
+- [https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards)
 
 ---
 ### SudokuWin8 - 2013 Windows Store App
@@ -71,22 +71,37 @@ This has been downloaded over 285,000+ times, and has earned over $20k
 
 #### Download Link 
 
-[https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8)
+- [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8)
 
 ---
 ### Sudoku Slider - 2013
 ![sudokuslider](images/sudokuslider.jpg)
+
+Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a challenging new twist on Sudoku that you are sure to enjoy. Sudoku Slider combines traditional Sudoku with a slider puzzle. The space with the Chomper is an empty space. Slide the surrounding number tiles into the empty space. When a number is in the correct spot it will turn yellow. When all the numbers are yellow you win!
+
 #### Developer Notes
+- Was low hanging fruit since I already had the sudoku code base
+- Used Azure for leaderboard
+
 #### Statistics
+- This has been downloaded over **4000** times.
+
 #### Download Link
-https://devpost.com/software/sudoku-slider
+- [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider)
 
 ---
 ### 2013 Cube Genuis
+![cubegenius](images/cubegenius.jpg)
+Amaze your friends and family by learning to solve the cube. You can compete against other players worldwide to see who can solve the cube the fastest and in the fewest moves. This app is the only FREE cube app in the Windows Store that lets you actually solve the cube. Become a Cube Genius today!
 #### Developer Notes
+- I developed this with a co-worker
+- This was our first attempt at 3D game
+- We released on both Windows 8 and Windows Phone
 #### Statistics
+- This has been downloaded over **100,000** times
+
 #### Download Link
-https://devpost.com/software/cube-genius
+- [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius)
 
 ---
 ### 2014 Mana Mania - LDS Tech Game Contest Entry
