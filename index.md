@@ -154,7 +154,9 @@ You wake up locked in a prison cell. You are plagued with repeated out of body l
 
 ---
 ### Survive Oblivion - 2015 Utah Indie Game Jam 
+
 ![surviveoblivion](images/surviveoblivion.png)
+
 The theme for this 48 hour game jam was "What do we do now".  
 
 The year is 2000 AO (After Oblivion). An alien race far superior in technology has assaulted earth. You are the team leader of an elite stealth element called G.S.O.C.1 and your survival depends on keeping your presence a SECRET!
@@ -166,22 +168,29 @@ The year is 2000 AO (After Oblivion). An alien race far superior in technology h
 - The textures we got from the asset store.
 - All the camera work and programming was me
 
-#### Itch.IO Link
-- [https://cypherjw.itch.io/oblivion-the-secret-of-survival](https://cypherjw.itch.io/oblivion-the-secret-of-survival)
+#### Itch.io Link
+- [https://cypherjw.itch.io/oblivion-the-secret-of-survival](https://cypherjw.itch.io/oblivion-the-secret-of-survival){:target="_blank"}
 
 #### Github Link
-- [https://github.com/worthingtonjg/survive_oblivion](https://github.com/worthingtonjg/survive_oblivion)
+- [https://github.com/worthingtonjg/survive_oblivion](https://github.com/worthingtonjg/survive_oblivion){:target="_blank"}
 
 #### Play the Game
-- [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/)
+- [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/){:target="_blank"}
 
 ---
 ### LDS Tech Game Contest 2015
 Book of Mormon Adventure
-https://devpost.com/software/book-of-mormon-adventures
+
+![bom](images/bom.png)
+
+This is for the 2015 LDS Tech app and game contest. We built a total of 4 games in 2 weeks using Unity.
+
 #### Developer Notes
-#### Statistics
+- Worked with a co-worker to develop 4 games
+- Spent about 2 weeks on this
+
 #### Download Link
+- Not available
 
 ---
 ### Microsoft Build 2016 Hackathon
