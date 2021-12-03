@@ -239,4 +239,4 @@ The theme for this 48 hour Game Jam was **Reincarnation**.
 We won the award for Best Narrative.
 
 #### Play the game
-https://cypherjw.itch.io/dr-strange
+!(https://cypherjw.itch.io/dr-strange)
