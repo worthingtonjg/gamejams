@@ -203,12 +203,21 @@ https://globalgamejam.org/2018/games/tran-tron-spoof
 #### Download Link
 
 ---
-### Global Game Jam 2019 - What home means to you
-Space Guardian
-https://globalgamejam.org/2019/games/space-guardian
+### The Space Guardian - 2019 Global Game Jam  What home means to you
+
+In this VR game for the 48 hour game jam that had the theme: "What home means to you", you are the Space Guardian, who is defending earth from aliens, while the humans escape to find a new home among the stars. 
+
 #### Developer Notes
-#### Statistics
-#### Download Link
+- Virtual Reality targeting Microsoft Mixed Reality Headsets
+
+#### Contributors
+- Me, Jim Byer, Nathan and Ryan
+
+#### Global Game Jam Link
+- [https://globalgamejam.org/2019/games/space-guardian](https://globalgamejam.org/2019/games/space-guardian)
+
+#### Github Link
+- [https://github.com/worthingtonjg/GGJ2019](https://github.com/worthingtonjg/GGJ2019)
 
 ---
 ### Love Potion - 2019 Utah Indie Game Jam
@@ -231,7 +240,7 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 - Nathan did modeling and helped with the level design
 - I did all the cutscenes, and programming
 
-#### Statistics
+#### Result
 - Won Best Narrative 
 - AND Best Use of Tech!
 
@@ -243,9 +252,9 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 
 ![driftracer](images/driftracer.png)
 
-- In this 48 hour game jam, the theme was "Repair".  
-- In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. 
-- Collect parts to repair and upgrade your ship! 
+In this 48 hour game jam, the theme was "Repair".  
+
+In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. Collect parts to repair and upgrade your ship! 
 
 #### Challenges
 - Ryan did all the pixel art!
@@ -288,6 +297,9 @@ The theme for this 48 hour game jam was "Reincarnation".  Meet Dr. Strange!  He 
 #### Result
 
 - We won the award for Best Narrative.
+
+#### Github Repo
+- [https://github.com/worthingtonjg/UtahIndieGameJam2021](https://github.com/worthingtonjg/UtahIndieGameJam2021)
 
 #### Play the game
 
