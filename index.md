@@ -180,7 +180,7 @@ The year is 2000 AO (After Oblivion). An alien race far superior in technology h
 ---
 ### Book of Mormon Adventure - 2015 LDS Tech Game Contest
 
-![bom](images/bom.png)
+![bom](images/bom.jpg)
 
 This is for the 2015 LDS Tech app and game contest. We built a total of 4 games in 2 weeks using Unity.
 
