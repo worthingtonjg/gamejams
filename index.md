@@ -129,14 +129,28 @@ Manna Mania is a fun adventure game loosely based on events in the Old Testament
 - We won honorable mention
 
 #### Download Link
-- [https://www.microsoft.com/en-us/p/manna-mania](https://www.microsoft.com/en-us/p/manna-mania)
+- [https://www.microsoft.com/en-us/p/manna-mania](https://www.microsoft.com/en-us/p/manna-mania){:target="_blank"}
 
 ---
 ### No Escape - Global Game Jam 2015 
-https://globalgamejam.org/2015/games/no-escape
+![noescape](images/noescape.png)
+
+You wake up locked in a prison cell. You are plagued with repeated out of body like visions that allow you to leave your cell and explore the prison. Can you escape the prison, or is it only in your mind? The main character in this game is mentally ill. It explores the mind of a mentally ill person and how they struggle to function in society.
+
 #### Developer Notes
-#### Statistics
-#### Download Link
+- This was the first game jam that my son Nathan (15 years old at the time) participated in
+- He did the modeling for the entire environment
+- I did the programming, and lighting
+- Most the other art work was free from the asset store
+-
+#### Github Link
+- [https://github.com/worthingtonjg/NoEscape](https://github.com/worthingtonjg/NoEscape){:target="_blank"}
+
+#### Global Game Jam Link
+- [https://globalgamejam.org/2015/games/no-escape](https://globalgamejam.org/2015/games/no-escape){:target="_blank"}
+
+#### Play the game
+- [http://worthingtonjg.github.io/NoEscape/](http://worthingtonjg.github.io/NoEscape/){:target="_blank"}
 
 ---
 ### Utah Indie Game Jam 2015 - Theme: What do we do now?
