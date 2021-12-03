@@ -3,6 +3,20 @@
 This is a summary of all the games made by me and my kids, mostly for fun in our spare time, and at game jams or hackathons.  
 
 ---
+### Alien Invasion - 2010 First Game Project With 14 year old Son Nathan
+![alieninvasion](images/alieninvasion.jpg)
+
+Stop the alien invasion.
+
+#### Developer Notes
+- Made with flash
+- Made with my 10 year old son Nathan
+- This was his first experience with game programming
+
+#### Download Link
+- Not available
+
+---
 ### Metro Squares - 2012 Windows Store App
 
 ![metro squares](images/metrosquares.jpg)
@@ -73,7 +87,7 @@ This has been downloaded over **285,000+** times
 - [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8){:target="_blank"}
 
 ---
-### Sudoku Slider - 2013
+### Sudoku Slider - 2013 Windows Store App
 ![sudokuslider](images/sudokuslider.jpg)
 
 Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a challenging new twist on Sudoku that you are sure to enjoy. Sudoku Slider combines traditional Sudoku with a slider puzzle. The space with the Chomper is an empty space. Slide the surrounding number tiles into the empty space. When a number is in the correct spot it will turn yellow. When all the numbers are yellow you win!
@@ -89,7 +103,7 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 - [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider){:target="_blank"}
 
 ---
-### 2013 Cube Genuis
+### Cube Genuis - 2013 Windows Store App
 ![cubegenius](images/cubegenuis.png)
 Amaze your friends and family by learning to solve the cube. You can compete against other players worldwide to see who can solve the cube the fastest and in the fewest moves. This app is the only FREE cube app in the Windows Store that lets you actually solve the cube. Become a Cube Genius today!
 #### Developer Notes
@@ -103,7 +117,7 @@ Amaze your friends and family by learning to solve the cube. You can compete aga
 - [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius){:target="_blank"}
 
 ---
-### 2014 Mana Mania - LDS Tech Game Contest Entry
+### Mana Mania - 2014 LDS Tech Game Contest Entry
 ![mannamania](images/mannamania.jpg)
 
 Manna Mania is a fun adventure game loosely based on events in the Old Testament. It is good family fun for kids of any age. Help Moses save the Israelites by collecting Manna, finding his serpent staff and hiding Idols! Manna Mania is many hours of good clean fun. Best of all it is Free!
@@ -115,14 +129,6 @@ Manna Mania is a fun adventure game loosely based on events in the Old Testament
 
 #### Download Link
 - [https://www.microsoft.com/en-us/p/manna-mania](https://www.microsoft.com/en-us/p/manna-mania)
-
----
-### Alien Invasion - 2014
-https://devpost.com/software/stop-the-alien-invasion
-#### Developer Notes
-- First project with Nathan
-#### Statistics
-#### Download Link
 
 ---
 ### No Escape - Global Game Jam 2015 
