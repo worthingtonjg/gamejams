@@ -142,7 +142,7 @@ You wake up locked in a prison cell. You are plagued with repeated out of body l
 - He did the modeling for the entire environment
 - I did the programming, and lighting
 - Most the other art work was free from the asset store
--
+
 #### Github Link
 - [https://github.com/worthingtonjg/NoEscape](https://github.com/worthingtonjg/NoEscape){:target="_blank"}
 
