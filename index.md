@@ -251,13 +251,24 @@ Also created at the 2016 Global Game Jam with the Relic them is Attack Bots!
 - [http://worthingtonjg.github.io/AttackBots/](http://worthingtonjg.github.io/AttackBots/){:target="_blank"}
 
 ---
-### Utah Indie Game Jam 2016 - Hidden
-Hololens - Zombie Ship
-https://cypherjw.itch.io/hololens-the-hidden-facility
-Won Audience Choice Award (1st of 15)
+### Holelens Zombies - 2016 Utah Indie Game Jam 2016
+
+![zombies](images/zombies.png)
+
+You must battle the zombies to protect our dimension from the infection in the hidden world.
+
 #### Developer Notes
-#### Statistics
-#### Download Link
+- We won Audience Choice Award (1st of 15)
+- We used mixamo to create the 3d models
+- Salsa lip sync for the character facial acting
+- We used the Hololens toolkit and Unity3d to develop for the hololens
+
+#### Youtube Video
+- [https://www.youtube.com/watch?v=og0EQzDLXaA](https://www.youtube.com/watch?v=og0EQzDLXaA){:target="_blank"}
+
+#### Download link
+- [https://cypherjw.itch.io/hololens-the-hidden-facility](https://cypherjw.itch.io/hololens-the-hidden-facility){:target="_blank"}
+
 
 ### Smooch That Fish
 https://itch.io/jam/utah-indie-game-jam-2016/rate/90265
