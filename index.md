@@ -22,7 +22,7 @@ This was my first game that I published in the windows store.  The funny thing i
 
 #### Download Link 
 
-- [https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares)
+- [https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares){:target="_blank"}
 
 ---
 ### Jungle Chess - 2012 Microsoft Hackathon Entry
@@ -50,7 +50,7 @@ build something using the new Metro UI that Microsoft had recently released for 
 
 #### Download Link 
 
-- [https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards)
+- [https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards){:target="_blank"}
 
 ---
 ### SudokuWin8 - 2013 Windows Store App
@@ -70,7 +70,7 @@ This has been downloaded over **285,000+** times
 
 #### Download Link 
 
-- [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8)
+- [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8){:target="_blank"}
 
 ---
 ### Sudoku Slider - 2013
@@ -86,7 +86,7 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 - This has been downloaded over **4000** times.
 
 #### Download Link
-- [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider)
+- [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider){:target="_blank"}
 
 ---
 ### 2013 Cube Genuis
@@ -100,15 +100,21 @@ Amaze your friends and family by learning to solve the cube. You can compete aga
 - This has been downloaded over **100,000** times
 
 #### Download Link
-- [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius)
+- [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius){:target="_blank"}
 
 ---
 ### 2014 Mana Mania - LDS Tech Game Contest Entry
+![mannamania](images/mannamania.png)
+
+Manna Mania is a fun adventure game loosely based on events in the Old Testament. It is good family fun for kids of any age. Help Moses save the Israelites by collecting Manna, finding his serpent staff and hiding Idols! Manna Mania is many hours of good clean fun. Best of all it is Free!
+
 #### Developer Notes
-#### Statistics
+- Our first game using Unity
+- Me and two co-workers developed this game in 2 weeks for the 2014 LDS Tech contest
+- We won honorable mention
+
 #### Download Link
-https://devpost.com/software/manna-mania
-Won Honorable Mention
+- [https://www.microsoft.com/en-us/p/manna-mania](https://www.microsoft.com/en-us/p/manna-mania)
 
 ---
 ### Alien Invasion - 2014
