@@ -104,7 +104,7 @@ Amaze your friends and family by learning to solve the cube. You can compete aga
 
 ---
 ### 2014 Mana Mania - LDS Tech Game Contest Entry
-![mannamania](images/mannamania.png)
+![mannamania](images/mannamania.jpg)
 
 Manna Mania is a fun adventure game loosely based on events in the Old Testament. It is good family fun for kids of any age. Help Moses save the Israelites by collecting Manna, finding his serpent staff and hiding Idols! Manna Mania is many hours of good clean fun. Best of all it is Free!
 
