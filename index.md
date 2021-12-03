@@ -6,12 +6,13 @@ This is a summary of all the games made by me and my kids, mostly for fun in our
 ### Alien Invasion - 2010 First Game Project With 14 year old Son Nathan
 ![alieninvasion](images/alieninvasion.jpg)
 
-Stop the alien invasion.
+See the Wonders of the World while shooting missles at the Alien Invaders.
 
 #### Developer Notes
 - Made with flash
 - Made with my 10 year old son Nathan
 - This was his first experience with game programming
+- I think we had just watched the Independence Day movie
 
 #### Download Link
 - Not available
