@@ -18,7 +18,7 @@ This was my first game that I published in the windows store.  The funny thing i
 
 #### Statistics
 
-- This has been downloaded over 8000 times in the windows store.
+- This has been downloaded over **8000** times in the windows store.
 
 #### Download Link 
 
