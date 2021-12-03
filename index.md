@@ -18,11 +18,11 @@ This was my first game that I published in the windows store.
 
 #### Statistics
 
-This has been downloaded over 8000 times in the windows store.
+- This has been downloaded over 8000 times in the windows store.
 
 #### Download Link 
 
-[https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares)
+- [https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares)
 
 ---
 ### Jungle Chess - 2012 Microsoft Hackathon Entry
@@ -31,25 +31,27 @@ This has been downloaded over 8000 times in the windows store.
 
 #### Developer Notes
 
-At the Microsoft Build Conference in 2012, we attended a Hackathon during where we had 24 hours to 
+At the Microsoft Build Conference in 2012, we attended a Hackathon during where we had **24 hours** to 
 build something using the new Metro UI that Microsoft had recently released for Windows 8.  
 
-If I recall correctly, we won $500 for taking 2nd place in our category.
+If I recall correctly, we won **$500** for taking 2nd place in our category.
 
 ---
 ### Psychic Cards - 2012 Windows Store App
 
 ![psychic cards](images/psychiccards.jpg)
 
+#### Developer Notes
+
 After coming back from the Microsoft Build Conference, I was still messing around with the new UI features, and wrote this.
 
 #### Statistics
 
-It has been downloaded 3000+ times from the Microsoft Store
+It has been downloaded **3000+** times from the Microsoft Store
 
 #### Download Link 
 
-https://www.microsoft.com/en-us/p/psychic-cards
+[https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards)
 
 ---
 ### SudokuWin8 - 2013 Windows Store App
@@ -68,7 +70,8 @@ https://www.microsoft.com/en-us/p/psychic-cards
 This has been downloaded over 285,000+ times, and has earned over $20k
 
 #### Download Link 
-https://www.microsoft.com/en-us/p/sudokuwin8
+
+[https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8)
 
 ---
 ### Sudoku Slider - 2013
@@ -210,11 +213,30 @@ https://globalgamejam.org/2019/games/space-guardian
 ---
 ### Utah Indie Game Jam 2019 - Theme: You are What You Eat
 Love Potion
-https://cypherjw.itch.io/love-potion
-Won Best Narrative and Best Use of Tech
+!(lovepotion)[images/lovepotion.png]
+
+A love potion goes terribly wrong turning you into a monster - can you find the ingredients to turn yourself handsome enough and marry the princess?
+
+This is an action adventure game based on the game jam theme:
+
+"You Are What You Eat".  
+
+Play as love struck Jim whose only goal is to woo the princess Cindy, but takes a wrong turn on the way to love and ends up battling a host of monsters to make himself handsome enough to marry his true love.
+
 #### Developer Notes
+- We where able to create a game that has 5 levels
+- 5 different enemies
+- And lets you control 5 different player controllers as Jim gets morphed by the potion.
+- Ryan learned how to use Gaia to generate the terrian
+- Ryan also learned about animation controllers
+- Ryan did all the voice overs and sounds for the enemies 
+
 #### Statistics
+- Won Best Narrative 
+- Won Best Use of Tech 
+
 #### Download Link
+- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion)
 
 ---
 ### Drift Racer - 2020 Global Game Jam 
@@ -224,17 +246,22 @@ Won Best Narrative and Best Use of Tech
 In this 48 hour game jam, the theme was Repair.  In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. Collect parts to repair and upgrade your ship! 
 
 #### Challenges
+- Ryan did all the pixel art!
+- The glow effect shaders came from the asset store
+- The levels and powerups were designed by Nathan
+- I did the programming 
 
 #### Contributors
-
+- Me, Nathan and Ryan
 
 #### Global Game Jam Link
-https://globalgamejam.org/2020/games/alien-wars-6
+[https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
 
 #### Github Repo
-https://github.com/worthingtonjg/DriftRacer
+[https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
 
 #### Play the game
+[https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
 
 ---
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
@@ -250,8 +277,9 @@ The theme for this 48 hour Game Jam was **Reincarnation**.
 #### Contributors
 - Nathan: Level Design and Animation Rigging
 - Ryan: Level Design, Animation Rigging, Sounds and Music
+- Me: I worked on the Cut Scenes, Story, Navmesh AI and Programming, Ship Flying mini-game
 - Nick: Character Controller, Interactables, Modeling
-- Me: I worked on the Cut Scenes, Story, Navmesh AI and Programming
+- Jim: Shooter mini-game
 - Most the artwork was free from the asset store
 
 #### Result
@@ -259,4 +287,4 @@ The theme for this 48 hour Game Jam was **Reincarnation**.
 We won the award for Best Narrative.
 
 #### Play the game
-!(https://cypherjw.itch.io/dr-strange)
+[https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange)
