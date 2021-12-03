@@ -192,12 +192,22 @@ This is for the 2015 LDS Tech app and game contest. We built a total of 4 games 
 - Not available
 
 ---
-### Microsoft Build 2016 Hackathon
-Virtual Band
-https://devpost.com/software/virtual-band-0xcgwp
+### Virtual Band - 2016 Microsoft Build Hackathon
+
+![virtualband](images/virtualband.png)
+
+Running on a treadmill is not nearly as enjoyable as running outside. But due to weather and time constraints sometimes that is our only choice. We were inspired by this to create an app that allows you to run through a level of your choice using just your treadmill, a tablet and your Microsoft Band.
+
 #### Developer Notes
-#### Statistics
+- Built at the 2016 Microsoft Hackathon
+- The MS Band API could not be referenced directly by Unity therefore was written in the UWP layer and used messaging to communication with Unity.
+- We had a great time at the Hackathon 
+
+#### Youtube Video
+- [https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s](https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s)
+
 #### Download Link
+- Not available
 
 ---
 ### Global Game Jam 2016 - Theme: Ritual
