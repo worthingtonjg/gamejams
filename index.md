@@ -204,24 +204,51 @@ Running on a treadmill is not nearly as enjoyable as running outside. But due to
 - We had a great time at the Hackathon 
 
 #### Youtube Video
-- [https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s](https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s)
+- [https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s](https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s){:target="_blank"}
 
 #### Download Link
 - Not available
 
 ---
-### Global Game Jam 2016 - Theme: Ritual
-Relic Hunter
-https://globalgamejam.org/2016/games/relic-hunter
+### Relic Hunter - 2016 Global Game Jam
+
+![relichunter](images/relichunter.png)
+
+The theme of this 48 hour game jam was “Ritual”.  The millenial rejuvination ritual has commenced.  You are in charge of restoring our planet's power.  To do that you must gather the relics that will recharge the planet's core.  Each relic you collect will further your ship's power, and allow you to access deeper recesses of the labrynth.
+
 #### Developer Notes
-#### Statistics
+- My two sons and a couple of my friends from work made this game.  
+- Going into the Game Jam we had decided before hand to make a Descent like clone 
+- We did all the level building in blender, all the ships 3d modeling in this game is ours.
+- I did the programming
+
+#### Global Game Jam Link
+- [https://globalgamejam.org/2016/games/relic-hunter](https://globalgamejam.org/2016/games/relic-hunter){:target="_blank"}
+
+#### GitHub Link
+- [https://github.com/worthingtonjg/RelicHunter](https://github.com/worthingtonjg/RelicHunter){:target="_blank"}
+
 #### Download Link
+- Unavailable
 
 ### AttackBots 
-https://github.com/worthingtonjg/AttackBots
+
+![attackbots](images/attackbots.png)
+
+Also created at the 2016 Global Game Jam with the Relic them is Attack Bots!
+
 #### Developer Notes
-#### Statistics
-#### Download Link
+- I took my 10 year old son to the 2016 Global Game Jam and this is the game we made together. 
+- Prior to the game jam I spent some time putting together a library of modular pieces: such as halls, intersections, tees, etc. 
+- I let my 10 year old practice making levels with these pieces prior to the game jam. 
+- I also created all the scripting and prefabs for the enemies and the player. 
+- This allowed Ryan to use the designer during the game jam to create a level using these modular pieces and prefabs.
+
+#### Github Link
+- [https://github.com/worthingtonjg/AttackBots](https://github.com/worthingtonjg/AttackBots){:target="_blank"}
+
+#### Play Game
+- [http://worthingtonjg.github.io/AttackBots/](http://worthingtonjg.github.io/AttackBots/){:target="_blank"}
 
 ---
 ### Utah Indie Game Jam 2016 - Hidden
