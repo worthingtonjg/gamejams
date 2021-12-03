@@ -6,20 +6,21 @@ This is a summary of all the game jams and games made by me and my kids, mostly 
 
 This was my first game that I published in the windows store.  
 
-Download Link: [https://www.microsoft.com/en-us/p/metro-squares]
+![metro squares](images/metrosquares.jpg)
 
-![metro squares](metrosquares.jpg)
-
-Why I wrote this ...
+#### Why I wrote this ...
 
 - My kids like this game, and I wanted to make something they would enjoy.
 - I wrote it to experiment with how the new windows metro UI works
 - And to try the publishing process in the new Windows store for Windows 8.  
 - I was also on my way to Microsoft Build and was entering a Hackathon that I wanted to prepare for it.
- 
 
+#### Downloads
+- 8000+ downloads
 
+#### Download Link 
 
+https://www.microsoft.com/en-us/p/metro-squares
 
 ### 2012 Microsoft Hackathon
 Jungle Chess - won $500
