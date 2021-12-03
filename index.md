@@ -3,6 +3,7 @@
 This is a summary of all the game jams and games made by me and my kids, mostly for fun in our spare time.
 
 ### 2012 Metro Squares - 1st Windows Store Game
+(metrosquares.jpg)
 https://devpost.com/software/metro-squares
 
 ### 2012 Microsoft Hackathon
