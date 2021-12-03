@@ -178,8 +178,7 @@ The year is 2000 AO (After Oblivion). An alien race far superior in technology h
 - [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/){:target="_blank"}
 
 ---
-### LDS Tech Game Contest 2015
-Book of Mormon Adventure
+### Book of Mormon Adventure - 2015 LDS Tech Game Contest
 
 ![bom](images/bom.png)
 
