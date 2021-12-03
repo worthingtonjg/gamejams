@@ -200,9 +200,7 @@ Won Best Narrative and Best Use of Tech
 
 ### Drift Racer - 2020 Global Game Jam 
 
-[![driftracer](images/driftracer.png)](https://www.youtube.com/watch?v=d07nDMbQBlw&feature=youtu.be "Drift Racer")
-
-
+![driftracer](images/driftracer.png)
 
 In this 48 hour game jam, the theme was Repair.  In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. Collect parts to repair and upgrade your ship! 
 
