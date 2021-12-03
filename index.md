@@ -4,9 +4,9 @@ This is a summary of all the game jams and games made by me and my kids, mostly 
 
 ### 2012 Metro Squares 
 
-This was my first game that I published in the windows store.  
-
 ![metro squares](images/metrosquares.jpg)
+
+This was my first game that I published in the windows store.  
 
 #### Why I wrote this ...
 
@@ -15,19 +15,34 @@ This was my first game that I published in the windows store.
 - And to try the publishing process in the new Windows store for Windows 8.  
 - I was also on my way to Microsoft Build and was entering a Hackathon that I wanted to prepare for it.
 
-#### Downloads
-- 8000+ downloads
+#### Statistics
+
+This has been downloaded over 8000 times in the windows store.
 
 #### Download Link 
 
 https://www.microsoft.com/en-us/p/metro-squares
 
-### 2012 Microsoft Hackathon
-Jungle Chess - won $500
-https://devpost.com/software/jungle-chess-build-2012-hackathon
+### 2012 Jungle Chess - Microsoft Hackathon (24 hours)
+
+![jungle chess](images/junglechess.jpg)
+
+At the Microsoft Build Conference in 2012, we attended a Hackathon during where we had 24 hours to 
+build something using the new Metro UI that Microsoft had recently released for Windows 8.  
+
+If I recall correctly, we won $500 for taking 2nd place in our category.
 
 ### 2012 Psychic Cards
-https://devpost.com/software/psychic-cards
+
+![psychic cards](images/psychiccards.jpg)
+
+After coming back from the Microsoft Build Conference, I was still messing around with the new UI features, and wrote this.
+
+It has been downloaded 3000+ times from the Microsoft Store
+
+#### Download Link 
+
+https://www.microsoft.com/en-us/p/psychic-cards
 
 ### 2013 Sudoku Win8 - made about $20k
 https://devpost.com/software/sudoku-win8
