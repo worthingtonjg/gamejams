@@ -21,7 +21,7 @@ This has been downloaded over 8000 times in the windows store.
 
 #### Download Link 
 
-https://www.microsoft.com/en-us/p/metro-squares
+(https://www.microsoft.com/en-us/p/metro-squares)
 
 
 ### Jungle Chess - 2012 Microsoft Hackathon Entry
