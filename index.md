@@ -198,27 +198,47 @@ Won Best Narrative and Best Use of Tech
 #### Statistics
 #### Download Link
 
-### Drift Racer - 2020 Global Game Jam - Theme: Repair
+### Drift Racer - 2020 Global Game Jam 
 
-#### Developer Notes
+[![driftracer](images/driftracer.png)](https://www.youtube.com/watch?v=d07nDMbQBlw&feature=youtu.be "Drift Racer")
 
-#### Download Link
+
+
+In this 48 hour game jam, the theme was Repair.  In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. Collect parts to repair and upgrade your ship! 
+
+#### Challenges
+
+#### Contributors
+
+
+#### Global Game Jam Link
 https://globalgamejam.org/2020/games/alien-wars-6
+
+#### Github Repo
+https://github.com/worthingtonjg/DriftRacer
+
+#### Play the game
 
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
 ![drstrange](images/drstrange.png)
 
 The theme for this 48 hour Game Jam was **Reincarnation**.  
 
-#### Developer Notes
+#### Challenges
 - What made this game jam more challenging was that both Nathan and Ryan had to work most of Saturday, so had less time to help.
 - Also Jim Byer decided not to help us much, but did add his own mini-game, which we included in the menu.
 - We had a new team member this year (Nicholas Terry) and had to learn to work as a team with someone we hadn't worked with before.
-- Nathan (21) and Ryan (16) both came to the Game Jam part of the time
-- Nathan helped with Level Design and Animation Rigging
-- Ryan helped with Level Design, Animation Rigging, Sounds and Music
-- I worked on the Cut Scenes, Story, Navmesh AI and Programming
-- We the award for Best Narrative
 
-#### Download Link
+#### Contributors
+- Nathan: Level Design and Animation Rigging
+- Ryan: Level Design, Animation Rigging, Sounds and Music
+- Nick: Character Controller, Interactables, Modeling
+- Me: I worked on the Cut Scenes, Story, Navmesh AI and Programming
+- Most the artwork was free from the asset store
+
+#### Result
+
+We won the award for Best Narrative.
+
+#### Play the game
 https://cypherjw.itch.io/dr-strange
