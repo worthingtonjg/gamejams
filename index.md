@@ -2,6 +2,7 @@
 
 This is a summary of all the games made by me and my kids, mostly for fun in our spare time, and at game jams or hackathons.  
 
+---
 ### Metro Squares - 2012 Windows Store App
 
 ![metro squares](images/metrosquares.jpg)
@@ -23,7 +24,7 @@ This has been downloaded over 8000 times in the windows store.
 
 [https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares)
 
-
+---
 ### Jungle Chess - 2012 Microsoft Hackathon Entry
 
 ![jungle chess](images/junglechess.jpg)
@@ -35,6 +36,7 @@ build something using the new Metro UI that Microsoft had recently released for 
 
 If I recall correctly, we won $500 for taking 2nd place in our category.
 
+---
 ### Psychic Cards - 2012 Windows Store App
 
 ![psychic cards](images/psychiccards.jpg)
@@ -49,6 +51,7 @@ It has been downloaded 3000+ times from the Microsoft Store
 
 https://www.microsoft.com/en-us/p/psychic-cards
 
+---
 ### SudokuWin8 - 2013 Windows Store App
 
 ![sudokuwin8](images/sudokuwin8.jpg)
@@ -67,6 +70,7 @@ This has been downloaded over 285,000+ times, and has earned over $20k
 #### Download Link 
 https://www.microsoft.com/en-us/p/sudokuwin8
 
+---
 ### Sudoku Slider - 2013
 ![sudokuslider](images/sudokuslider.jpg)
 #### Developer Notes
@@ -74,19 +78,22 @@ https://www.microsoft.com/en-us/p/sudokuwin8
 #### Download Link
 https://devpost.com/software/sudoku-slider
 
+---
 ### 2013 Cube Genuis
 #### Developer Notes
 #### Statistics
 #### Download Link
 https://devpost.com/software/cube-genius
 
-2014 Mana Mania - LDS Tech Game Contest Entry
+---
+### 2014 Mana Mania - LDS Tech Game Contest Entry
 #### Developer Notes
 #### Statistics
 #### Download Link
 https://devpost.com/software/manna-mania
 Won Honorable Mention
 
+---
 ### Alien Invasion - 2014
 https://devpost.com/software/stop-the-alien-invasion
 #### Developer Notes
@@ -94,12 +101,14 @@ https://devpost.com/software/stop-the-alien-invasion
 #### Statistics
 #### Download Link
 
+---
 ### No Escape - Global Game Jam 2015 
 https://globalgamejam.org/2015/games/no-escape
 #### Developer Notes
 #### Statistics
 #### Download Link
 
+---
 ### Utah Indie Game Jam 2015 - Theme: What do we do now?
 Survive Oblivion
 https://cypherjw.itch.io/oblivion-the-secret-of-survival
@@ -107,6 +116,7 @@ https://cypherjw.itch.io/oblivion-the-secret-of-survival
 #### Statistics
 #### Download Link
 
+---
 ### LDS Tech Game Contest 2015
 Book of Mormon Adventure
 https://devpost.com/software/book-of-mormon-adventures
@@ -114,6 +124,7 @@ https://devpost.com/software/book-of-mormon-adventures
 #### Statistics
 #### Download Link
 
+---
 ### Microsoft Build 2016 Hackathon
 Virtual Band
 https://devpost.com/software/virtual-band-0xcgwp
@@ -121,6 +132,7 @@ https://devpost.com/software/virtual-band-0xcgwp
 #### Statistics
 #### Download Link
 
+---
 ### Global Game Jam 2016 - Theme: Ritual
 Relic Hunter
 https://globalgamejam.org/2016/games/relic-hunter
@@ -134,6 +146,7 @@ https://github.com/worthingtonjg/AttackBots
 #### Statistics
 #### Download Link
 
+---
 ### Utah Indie Game Jam 2016 - Hidden
 Hololens - Zombie Ship
 https://cypherjw.itch.io/hololens-the-hidden-facility
@@ -149,6 +162,7 @@ Won Award for Most Educational
 #### Statistics
 #### Download Link
 
+---
 ### Global Game Jam 2017 - Waves
 Laugh Kingdom
 https://globalgamejam.org/2017/games/laugh-kingdom
@@ -156,6 +170,7 @@ https://globalgamejam.org/2017/games/laugh-kingdom
 #### Statistics
 #### Download Link
 
+---
 ### Utah Indie Game Jam 2017 - Pacifist
 Crazy Pacifist Quote Generator
 https://cypherjw.itch.io/talking-pacifists
@@ -176,6 +191,7 @@ https://itch.io/jam/utah-indie-game-jam-2017/rate/186217
 #### Statistics
 #### Download Link
 
+---
 ### Global Game Jam 2018 - Transmission
 Tran - A Tron Spoof
 https://globalgamejam.org/2018/games/tran-tron-spoof
@@ -183,6 +199,7 @@ https://globalgamejam.org/2018/games/tran-tron-spoof
 #### Statistics
 #### Download Link
 
+---
 ### Global Game Jam 2019 - What home means to you
 Space Guardian
 https://globalgamejam.org/2019/games/space-guardian
@@ -190,6 +207,7 @@ https://globalgamejam.org/2019/games/space-guardian
 #### Statistics
 #### Download Link
 
+---
 ### Utah Indie Game Jam 2019 - Theme: You are What You Eat
 Love Potion
 https://cypherjw.itch.io/love-potion
@@ -198,6 +216,7 @@ Won Best Narrative and Best Use of Tech
 #### Statistics
 #### Download Link
 
+---
 ### Drift Racer - 2020 Global Game Jam 
 
 ![driftracer](images/driftracer.png)
@@ -217,6 +236,7 @@ https://github.com/worthingtonjg/DriftRacer
 
 #### Play the game
 
+---
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
 ![drstrange](images/drstrange.png)
 
