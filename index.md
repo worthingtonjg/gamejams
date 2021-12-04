@@ -279,8 +279,11 @@ You must battle the zombies to protect our dimension from the infection in the h
 - My 10 year old son used Unity to create this 2D Platformer
 - Won Award for Most Educational
 
-#### Download Link
-- [https://ryanwor.itch.io/smooch-that-fish](https://ryanwor.itch.io/smooch-that-fish){:target="_blank"}
+#### Github Link
+- [https://github.com/worthingtonjg/SmoochThatFish](https://github.com/worthingtonjg/SmoochThatFish){:target="_blank"}
+
+#### Play Game
+- [https://worthingtonjg.github.io/SmoochThatFish](https://worthingtonjg.github.io/SmoochThatFish){:target="_blank"}
 
 ---
 ### Global Game Jam 2017 - Waves
