@@ -231,7 +231,7 @@ The theme of this 48 hour game jam was “Ritual”.  The millenial rejuvination
 #### Download Link
 - Unavailable
 
-### AttackBots 
+### AttackBots - 2016 Global Game Jam
 
 ![attackbots](images/attackbots.png)
 
@@ -271,11 +271,16 @@ You must battle the zombies to protect our dimension from the infection in the h
 
 
 ### Smooch That Fish
-https://itch.io/jam/utah-indie-game-jam-2016/rate/90265
-Won Award for Most Educational
+![smooch](images/smooch.png)
+
+2D platformer, play as a penguin collecting popsicles and avoiding enemies as you platform across diverse levels to reach your fishy friend.
+
 #### Developer Notes
-#### Statistics
+- My 10 year old son used Unity to create this 2D Platformer
+- Won Award for Most Educational
+
 #### Download Link
+- [https://ryanwor.itch.io/smooch-that-fish](https://ryanwor.itch.io/smooch-that-fish){:target="_blank"}
 
 ---
 ### Global Game Jam 2017 - Waves
