@@ -122,7 +122,7 @@ In Drift Racer choose from 8+ ships and race against your friends in this face p
 
 #### Global Game Jam Link
 
-- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
+- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6){:target="_blank"}
 
 #### Github Repo
 
