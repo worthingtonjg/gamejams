@@ -240,11 +240,10 @@ The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we
 
 - [https://github.com/worthingtonjg/tran-ggj2018](https://github.com/worthingtonjg/tran-ggj2018){:target="_blank"}
 
-#### Play the game (Web GL)
-
-Below is a link to the WebGL build.  However not everything works in WebGL, and I haven't taken the time to fix the problems.  The game runs better when built as an .Exe (but for those who want to try it here is a link).
+#### Play the game (WebGL)
 
 - [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/){:target="_blank"}
+- Note: Not everything works in the WebGL build, and I haven't taken the time to fix the problems.  The game runs better when built as an .Exe (but for those who want to try it here is a link).
 
 
 
