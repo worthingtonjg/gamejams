@@ -40,15 +40,15 @@ Shape Factory is an exciting 2 player factory matching game. Grab a friend and h
 
 #### Globa Game Jam 2022 Page
 
-- [https://globalgamejam.org/2022/games/shape-factory-0](https://globalgamejam.org/2022/games/shape-factory-0){:target="_blank"}
+- [https://globalgamejam.org/2022/games/shape-factory-0](https://globalgamejam.org/2022/games/shape-factory-0)
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap){:target="_blank"}
+- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap)
 
 #### Play the game
 
-- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory){:target="_blank"}
+- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory)
 
 ---
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
@@ -79,7 +79,7 @@ The theme for this 48 hour game jam was "Reincarnation".  Meet Dr. Strange!  He 
 
 #### Play the game
 
-- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange){:target="_blank"}
+- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange)
 
 ---
 ### Drift Racer - 2020 Global Game Jam 
