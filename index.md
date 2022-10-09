@@ -276,8 +276,15 @@ Won Left Field Award
 #### Contribitors
 #### Links
 
+
+
+
+
+
 ---
 ### Global Game Jam 2017 - Laugh Kingdom
+
+![laugh](images/laugh.png)
 
 The theme of this 48 hour game jam was "Waves".  My 12 year old son at the time, wanted to
 make a game that had jokes in it.  So we decided that since sounds are waves, we would make
@@ -332,6 +339,12 @@ Players are racing against each other to collect the most jokes and fill their j
 #### Github Repo
 
 - [https://github.com/worthingtonjg/laugh-kingdom](https://github.com/worthingtonjg/laugh-kingdom)
+
+
+
+
+
+
 
 ---
 ### Holelens Zombies - 2016 Utah Indie Game Jam 2016
