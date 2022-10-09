@@ -163,6 +163,10 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 - Won Best Narrative 
 - AND Best Use of Tech!
 
+#### Gameplay Video
+
+- [https://www.youtube.com/watch?v=sUTJplUN3Lo&feature=emb_logo](https://www.youtube.com/watch?v=sUTJplUN3Lo&feature=emb_logo){:target="_blank"}
+
 #### Download Link
 
 - [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion){:target="_blank"}
