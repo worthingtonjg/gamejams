@@ -243,40 +243,95 @@ In this VR game for the 48 hour game jam that had the theme: "What home means to
 
 
 
+---
+### Crazy Pacifist Quote Generator - Utah Indie Game Jam 2017
+
+![crazy](images/crazy.png)
+
+The theme of this 48 hour game jam was "Pacifist".  This was one of three entries that we submitted. 
+
+It started out as just a distraction to keep me awake the 2nd night, but turned into my final entry.  Mainly because I had more fun making it than I had making what was our primary entry.  
+
+Watch very poorly 2D render - ed talking heads say not-so-random quotes that are sometimes from famous pacificsts.
+
+#### Developer Notes
+
+- Won Left Field Award
+- Crazy Minnow - Salsa 2D helped me make the lip sync work
+
+#### Contribitors
+
+- Programming and Design: Jon Worthington
+
+#### Links
+
+- [https://cypherjw.itch.io/talking-pacifists](https://cypherjw.itch.io/talking-pacifists)
+
+
+
+
 
 
 ---
-Penguin Pacifist
-https://itch.io/jam/utah-indie-game-jam-2017/rate/186217
+### Pacifist of War - Utah Indie Game Jam 2017
+
+![war](images/war.png)
+
+The theme of this 48 hour game jam was "Pacifist".  This was one of three entries that we submitted.  This game was my 17 year old son's idea.  He did everything you see visually 
+in the game.  I helped with the programming.
+
+A war has broken out across the United States. When you refuse to fight you are captured as a prisoner of war. Can you escape while still holding on to your humanity?
+
 #### Developer Notes
+
+- We used ray tracing for the stealth mechanic
+- Nathan came up with all the visuals and the idea
+- I just helped with the programming and technical aspects of the game
+
 #### Contribitors
+
+- Level Design: Nathan Worthington
+- Lighting/Fx: Nathan Worthington
+- Programming: Jon Worthington
+
 #### Links
+
+- [https://nathanworthington.itch.io/prisoner-of-war](https://nathanworthington.itch.io/prisoner-of-war)
 
 
 
 
 
 ---
-Pacifist of War 
-https://itch.io/jam/utah-indie-game-jam-2017/rate/186220
+Penguin Pacifist - Utah Indie Game Jam 2017
+
+![penguinpacifist](images/penguinpacifist.png)
+
+The theme of this 48 hour game jam was "Pacifist".  This was one of three entries that we submitted.
+
+As the worlds only penguin pacifist you must slide the blocks in order to keep the penguins from falling off the platforms.
+
+Help the penguins move from one side of the screen to the other.  
+
+Some blocks slide vertically, some horizontally and some not at all.
+
+Either pay prove you are the best Penguin Pacifist!
+
 #### Developer Notes
+
+- Penguin: https://www.assetstore.unity3d.com/en/#!/content/100397
+- iTween: https://www.assetstore.unity3d.com/en/#!/content/84
+- TextMeshPro: https://www.assetstore.unity3d.com/en/#!/content/84126
+
 #### Contribitors
+
+- Programming: Jon Worthington
+- Level Design: Nathan Worthington and Ryan Worthington
+- Music: Ryan Worthington
+
 #### Links
 
-
-
-
-
----
-### Utah Indie Game Jam 2017 - Pacifist
-Crazy Pacifist Quote Generator
-https://cypherjw.itch.io/talking-pacifists
-Won Left Field Award
-#### Developer Notes
-#### Contribitors
-#### Links
-
-
+- [https://ryanwor.itch.io/perry-the-pacifist](https://ryanwor.itch.io/perry-the-pacifist)
 
 
 
@@ -284,11 +339,11 @@ Won Left Field Award
 ---
 ### Global Game Jam 2017 - Laugh Kingdom
 
-![laugh](images/laugh.png)
-
 The theme of this 48 hour game jam was "Waves".  My 12 year old son at the time, wanted to
 make a game that had jokes in it.  So we decided that since sounds are waves, we would make
 a game where you collect jokes.  
+
+![laugh](images/laugh.png)
 
 Laugh Kingdom is a LAN network multiplayer game written in Unity using Unity networking.
 
@@ -366,6 +421,11 @@ You must battle the zombies to protect our dimension from the infection in the h
 - [https://cypherjw.itch.io/hololens-the-hidden-facility](https://cypherjw.itch.io/hololens-the-hidden-facility){:target="_blank"}
 
 
+
+
+
+
+---
 ### Smooch That Fish
 ![smooch](images/smooch.png)
 
@@ -381,6 +441,12 @@ You must battle the zombies to protect our dimension from the infection in the h
 #### Play Game
 - [https://worthingtonjg.github.io/SmoochThatFish](https://worthingtonjg.github.io/SmoochThatFish){:target="_blank"}
 
+
+
+
+
+
+---
 ### AttackBots - 2016 Global Game Jam
 
 ![attackbots](images/attackbots.png)
@@ -399,6 +465,10 @@ Also created at the 2016 Global Game Jam with the Relic them is Attack Bots!
 
 #### Play Game
 - [http://worthingtonjg.github.io/AttackBots/](http://worthingtonjg.github.io/AttackBots/){:target="_blank"}
+
+
+
+
 
 ---
 ### Relic Hunter - 2016 Global Game Jam
@@ -422,6 +492,10 @@ The theme of this 48 hour game jam was “Ritual”.  The millenial rejuvination
 #### Download Link
 - Unavailable
 
+
+
+
+
 ---
 ### Virtual Band - 2016 Microsoft Build Hackathon
 
@@ -439,6 +513,10 @@ Running on a treadmill is not nearly as enjoyable as running outside. But due to
 
 #### Download Link
 - Not available
+
+
+
+
 
 ---
 ### Survive Oblivion - 2015 Utah Indie Game Jam 
@@ -465,6 +543,10 @@ The year is 2000 AO (After Oblivion). An alien race far superior in technology h
 #### Play the Game
 - [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/){:target="_blank"}
 
+
+
+
+
 ---
 ### Book of Mormon Adventure - 2015 LDS Tech Game Contest
 
@@ -478,6 +560,10 @@ This is for the 2015 LDS Tech app and game contest. We built a total of 4 games 
 
 #### Download Link
 - Not available
+
+
+
+
 
 ---
 ### No Escape - Global Game Jam 2015 
@@ -500,6 +586,10 @@ You wake up locked in a prison cell. You are plagued with repeated out of body l
 #### Play the game
 - [http://worthingtonjg.github.io/NoEscape/](http://worthingtonjg.github.io/NoEscape/){:target="_blank"}
 
+
+
+
+
 ---
 ### Mana Mania - 2014 LDS Tech Game Contest Entry
 ![mannamania](images/mannamania.jpg)
@@ -507,7 +597,7 @@ You wake up locked in a prison cell. You are plagued with repeated out of body l
 Manna Mania is a fun adventure game loosely based on events in the Old Testament. It is good family fun for kids of any age. Help Moses save the Israelites by collecting Manna, finding his serpent staff and hiding Idols! Manna Mania is many hours of good clean fun. Best of all it is Free!
 
 #### Developer Notes
-- Our first game using Unity
+- This was my first game using Unity
 - Me and two co-workers developed this game in 2 weeks for the 2014 LDS Tech contest
 - We won honorable mention
 
@@ -518,17 +608,28 @@ Manna Mania is a fun adventure game loosely based on events in the Old Testament
 
 ---
 ### Cube Genuis - 2013 Windows Store App
+
 ![cubegenius](images/cubegenuis.png)
+
 Amaze your friends and family by learning to solve the cube. You can compete against other players worldwide to see who can solve the cube the fastest and in the fewest moves. This app is the only FREE cube app in the Windows Store that lets you actually solve the cube. Become a Cube Genius today!
+
 #### Developer Notes
+
 - I developed this with a co-worker
 - This was our first attempt at 3D game
 - We released on both Windows 8 and Windows Phone
+
 #### Statistics
+
 - This has been downloaded over **100,000** times
 
 #### Download Link
+
 - [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius){:target="_blank"}
+
+
+
+
 
 
 
@@ -549,6 +650,10 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 - [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider){:target="_blank"}
 
 
+
+
+
+
 ---
 ### SudokuWin8 - 2013 Windows Store App
 
@@ -563,11 +668,15 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 
 #### Statistics
 
-This has been downloaded over **285,000+** times
+- This has been downloaded over **285,000+** times
 
 #### Download Link 
 
 - [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8){:target="_blank"}
+
+
+
+
 
 
 ---
@@ -578,6 +687,7 @@ This has been downloaded over **285,000+** times
 #### Developer Notes
 
 - After coming back from the Microsoft Build Conference, I was still messing around with the new UI features, and wrote this.
+- My daughter at the time liked card tricks, so I thought it would be fun to write something she would enjoy.
 
 #### Statistics
 
@@ -586,6 +696,10 @@ This has been downloaded over **285,000+** times
 #### Download Link 
 
 - [https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards){:target="_blank"}
+
+
+
+
 
 
 ---
@@ -598,6 +712,11 @@ This has been downloaded over **285,000+** times
 - At the Microsoft Build Conference in 2012, we attended a Hackathon during where we had **24 hours** to 
 build something using the new Metro UI that Microsoft had recently released for Windows 8.  
 - If I recall correctly, we won **$500** for taking 2nd place in our category.
+- I remember there were 4 of us working on this, all co-workers at the time.
+
+
+
+
 
 ---
 ### Metro Squares - 2012 Windows Store App
@@ -608,10 +727,10 @@ This was my first game that I published in the windows store.  The funny thing i
 
 #### Developer Notes
 
-- My kids like this game, and I wanted to make something they would enjoy.
-- I wrote it to experiment with how the new windows metro UI works
-- And to try the publishing process in the new Windows store for Windows 8.  
-- I was also on my way to Microsoft Build and was entering a Hackathon that I wanted to prepare for it.
+- My kids liked this game, and I wanted to make something they would enjoy.
+- I wrote it to experiment with how the new windows metro UI worked
+- I also wanted to try the publishing process in the new Windows store for Windows 8.  
+- I was on my way to Microsoft Build Conference and was entering a Hackathon that I wanted to prepare for it.
 
 #### Statistics
 
@@ -629,18 +748,21 @@ This was my first game that I published in the windows store.  The funny thing i
 
 
 ---
-### Alien Invasion - 2010 First Game Project With 14 year old Son Nathan
+### Alien Invasion - 2010 First Game Project With 10 year old Son Nathan
+
 ![alieninvasion](images/alieninvasion.jpg)
 
 See the Wonders of the World while shooting missles at the Alien Invaders.
 
 #### Developer Notes
-- Made with flash
+
 - Made with my 10 year old son Nathan
 - This was his first experience with game programming
-- I think we had just watched the Independence Day movie
+- I think we had just watched the Independence Day movie and he wanted to learn programming
+- We made the game with Adobe Flash, because at the time Flash was being used to make games.
 
 #### Download Link
+
 - Not available
 
 
