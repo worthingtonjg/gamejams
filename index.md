@@ -1,6 +1,9 @@
 ## Welcome 
 
-I have been making games for fun with friends and family at game jams and hackathons for nearly 10 years.  Almost all these games were made in 48 to 72 hours.  There are two game jams a year that I like to attend.  The Global Game Jam in the spring and the Utah Indie Game Jam in the fall.  
+I have been making games for fun with friends and family at game jams and hackathons for nearly 10 years.  Almost all these games were made in 48 to 72 hours.  There are two game jams a year that I like to attend:  
+
+- The Global Game Jam in the spring (in Salt Lake) and 
+- The Utah Indie Game Jam in the fall (at the UVU business center).  
 
 Below you will find the list of all the games I've made over the years in reverse chronological order.
 
