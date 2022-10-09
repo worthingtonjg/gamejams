@@ -49,11 +49,11 @@ Shape Factory is an exciting 2 player factory matching game. Grab a friend and h
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap)
+- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap){:target="_blank"}
 
 #### Play the game
 
-- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory)
+- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory){:target="_blank"}
 
 
 
@@ -88,11 +88,11 @@ The theme for this 48 hour game jam was "Reincarnation".  Meet Dr. Strange!  He 
 - We won the award for Best Narrative.
 
 #### Github Repo
-- [https://github.com/worthingtonjg/UtahIndieGameJam2021](https://github.com/worthingtonjg/UtahIndieGameJam2021)
+- [https://github.com/worthingtonjg/UtahIndieGameJam2021](https://github.com/worthingtonjg/UtahIndieGameJam2021){:target="_blank"}
 
 #### Play the game
 
-- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange)
+- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange){:target="_blank"}
 
 
 
@@ -126,11 +126,11 @@ In Drift Racer choose from 8+ ships and race against your friends in this face p
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
+- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer){:target="_blank"}
 
 #### Play the game
 
-- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
+- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/){:target="_blank"}
 
 
 
@@ -165,7 +165,30 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 
 #### Download Link
 
-- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion)
+- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion){:target="_blank"}
+
+
+
+
+
+---
+### The Space Guardian - 2019 Global Game Jam 
+
+In this VR game for the 48 hour game jam that had the theme: "What home means to you", you are the Space Guardian, who is defending earth from aliens, while the humans escape to find a new home among the stars. 
+
+#### Developer Notes
+- Virtual Reality targeting Microsoft Mixed Reality Headsets
+
+#### Contributors
+- Me, Jim Byer, Nathan and Ryan
+
+#### Global Game Jam Link
+- [https://globalgamejam.org/2019/games/space-guardian](https://globalgamejam.org/2019/games/space-guardian){:target="_blank"}
+
+#### Github Link
+- [https://github.com/worthingtonjg/GGJ2019](https://github.com/worthingtonjg/GGJ2019){:target="_blank"}
+
+
 
 
 
@@ -203,42 +226,24 @@ The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we
 
 #### Global Game Jam Link
 
-- [https://globalgamejam.org/2018/games/tran-tron-spoof](https://globalgamejam.org/2018/games/tran-tron-spoof)
+- [https://globalgamejam.org/2018/games/tran-tron-spoof](https://globalgamejam.org/2018/games/tran-tron-spoof){:target="_blank"}
 
 #### Game Play Video Link
 
-- [https://vimeo.com/253125566](https://vimeo.com/253125566)
+- [https://vimeo.com/253125566](https://vimeo.com/253125566){:target="_blank"}
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/tran-ggj2018](https://github.com/worthingtonjg/tran-ggj2018)
+- [https://github.com/worthingtonjg/tran-ggj2018](https://github.com/worthingtonjg/tran-ggj2018){:target="_blank"}
 
 #### Play the game (Web GL)
 
 Below is a link to the WebGL build.  However not everything works in WebGL, and I haven't taken the time to fix the problems.  The game runs better when built as an .Exe (but for those who want to try it here is a link).
 
-- [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/)
+- [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/){:target="_blank"}
 
 
 
-
-
----
-### The Space Guardian - 2019 Global Game Jam  What home means to you
-
-In this VR game for the 48 hour game jam that had the theme: "What home means to you", you are the Space Guardian, who is defending earth from aliens, while the humans escape to find a new home among the stars. 
-
-#### Developer Notes
-- Virtual Reality targeting Microsoft Mixed Reality Headsets
-
-#### Contributors
-- Me, Jim Byer, Nathan and Ryan
-
-#### Global Game Jam Link
-- [https://globalgamejam.org/2019/games/space-guardian](https://globalgamejam.org/2019/games/space-guardian)
-
-#### Github Link
-- [https://github.com/worthingtonjg/GGJ2019](https://github.com/worthingtonjg/GGJ2019)
 
 
 
@@ -265,7 +270,7 @@ Watch very poorly 2D render - ed talking heads say not-so-random quotes that are
 
 #### Links
 
-- [https://cypherjw.itch.io/talking-pacifists](https://cypherjw.itch.io/talking-pacifists)
+- [https://cypherjw.itch.io/talking-pacifists](https://cypherjw.itch.io/talking-pacifists){:target="_blank"}
 
 
 
@@ -296,7 +301,7 @@ A war has broken out across the United States. When you refuse to fight you are 
 
 #### Links
 
-- [https://nathanworthington.itch.io/prisoner-of-war](https://nathanworthington.itch.io/prisoner-of-war)
+- [https://nathanworthington.itch.io/prisoner-of-war](https://nathanworthington.itch.io/prisoner-of-war){:target="_blank"}
 
 
 
@@ -331,7 +336,7 @@ Either pay prove you are the best Penguin Pacifist!
 
 #### Links
 
-- [https://ryanwor.itch.io/perry-the-pacifist](https://ryanwor.itch.io/perry-the-pacifist)
+- [https://ryanwor.itch.io/perry-the-pacifist](https://ryanwor.itch.io/perry-the-pacifist){:target="_blank"}
 
 
 
@@ -351,7 +356,7 @@ Players are racing against each other to collect the most jokes and fill their j
 
 ### Gameplay Video
 
-[https://www.youtube.com/watch?v=mLil2ExB2pU](https://www.youtube.com/watch?v=mLil2ExB2pU)
+[https://www.youtube.com/watch?v=mLil2ExB2pU](https://www.youtube.com/watch?v=mLil2ExB2pU){:target="_blank"}
 
 ### Multiplayer data tracked on the server: 
 
@@ -389,11 +394,11 @@ Players are racing against each other to collect the most jokes and fill their j
 
 ### Gam Jam Site
 
-- [https://globalgamejam.org/2017/games/laugh-kingdom](https://globalgamejam.org/2017/games/laugh-kingdom)
+- [https://globalgamejam.org/2017/games/laugh-kingdom](https://globalgamejam.org/2017/games/laugh-kingdom){:target="_blank"}
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/laugh-kingdom](https://github.com/worthingtonjg/laugh-kingdom)
+- [https://github.com/worthingtonjg/laugh-kingdom](https://github.com/worthingtonjg/laugh-kingdom){:target="_blank"}
 
 
 
