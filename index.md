@@ -117,13 +117,17 @@ In Drift Racer choose from 8+ ships and race against your friends in this face p
 - Me, Nathan and Ryan
 
 #### Global Game Jam Link
-- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6){:target="_blank"}
+- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
 
 #### Github Repo
-- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer){:target="_blank"}
+- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
 
 #### Play the game
-- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/){:target="_blank"}
+- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
+
+
+
+
 
 ---
 ### Love Potion - 2019 Utah Indie Game Jam
