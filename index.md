@@ -17,7 +17,7 @@ Below you will find the list of all the games I've made over the years in revers
 
 ![shapefactory](images/shapefactory01.png)
 
-Shape Factory is an exciting 2 player factory matching game. Grab a friend and have fun racing to match all your shapes first! 
+Shape Factory is an exciting 2 player (split screen) factory matching game. Grab a friend and have fun racing to match all your shapes first! 
 
 #### Rules
 
