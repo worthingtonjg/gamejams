@@ -4,6 +4,11 @@ I have been making games for fun with friends and family at game jams and hackat
 
 Below you will find the list of all the games I've made over the years in reverse chronological order.
 
+
+
+
+
+
 ---
 ### Shape Factory - 2022 Global Game Jam
 
@@ -50,6 +55,12 @@ Shape Factory is an exciting 2 player factory matching game. Grab a friend and h
 
 - [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory)
 
+
+
+
+
+
+
 ---
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
 
@@ -80,6 +91,12 @@ The theme for this 48 hour game jam was "Reincarnation".  Meet Dr. Strange!  He 
 #### Play the game
 
 - [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange)
+
+
+
+
+
+
 
 ---
 ### Drift Racer - 2020 Global Game Jam 
