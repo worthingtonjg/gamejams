@@ -16,7 +16,7 @@ Below you will find the list of all the games I've made over the years in revers
 
 Shape Factory is an exciting 2 player factory matching game. Grab a friend and have fun racing to match all your shapes first! 
 
-#### Rules: 
+#### Rules
 
 - Shapes placed on the main conveyor belt must match the color or shape of the currently displayed shape above. 
 - If it doesn't match, you'll get a penalty, and more shapes will be added to your count.
@@ -24,12 +24,12 @@ Shape Factory is an exciting 2 player factory matching game. Grab a friend and h
 - If none of your shapes match, you can go to the button at the top of your play area and press it to generate a new, random shape (but this will increase your block count, so use it wisely). 
 - The first player to match all of their shapes wins! 
 
-#### Controls: 
+#### Controls
 
 - Blue Player/Left Player: WASD keys to move Space Bar to pick up/put down blocks, and push buttons 
 - Red Player/Right Player: Arrow keys to move Zero (on Num Pad) to pick up/put down blocks, and push buttons
 
-#### Challenges
+#### Developer Notes
 
 - This was Andrea's first game jam, but she did a great job with the level design and art work.  The game turned out looking really nice!
 - This is a 2 player / split screen game only.  It would be nice to create some AI so you could play against the computer.
@@ -68,12 +68,14 @@ Shape Factory is an exciting 2 player factory matching game. Grab a friend and h
 
 The theme for this 48 hour game jam was "Reincarnation".  Meet Dr. Strange!  He is a crazy scientist obsessed with discovering the secret to **reincarnation** at all costs.
 
-#### Challenges
+#### Developer Notes
+
 - What made this game jam more challenging was that both Nathan and Ryan had to work most of Saturday, so had less time to help.
 - Also Jim Byer decided not to help us much, but did add his own mini-game, which we included in the menu.
 - We had a new team member this year (Nicholas Terry) and had to learn to work as a team with someone we hadn't worked with before.
 
 #### Contributors
+
 - Nathan: Level Design and Animation Rigging
 - Ryan: Level Design, Animation Rigging, Sounds and Music
 - Me: I worked on the Cut Scenes, Story, Navmesh AI and Programming, Ship Flying mini-game, UI, Particle Effects
@@ -107,22 +109,27 @@ In this 48 hour game jam, the theme was "Repair".
 
 In Drift Racer choose from 8+ ships and race against your friends in this face paced and fun race game. Collect parts to repair and upgrade your ship! 
 
-#### Challenges
+#### Developer Notes
+
 - Ryan did all the pixel art!
 - The glow effect shaders came from the asset store
 - The levels and powerups were designed by Nathan
 - I did the programming 
 
 #### Contributors
+
 - Me, Nathan and Ryan
 
 #### Global Game Jam Link
+
 - [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
 
 #### Github Repo
+
 - [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
 
 #### Play the game
+
 - [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
 
 
@@ -143,6 +150,7 @@ This is an action adventure game based on the 48 hour game jam theme:
 Play as love struck Jim whose only goal is to woo the princess Cindy, but takes a wrong turn on the way to love and ends up battling a host of monsters to make himself handsome enough to marry his true love.
 
 #### Developer Notes
+
 - We where able to create a game that has 5 levels, 5 different enemies, and 5 different players.
 - Ryan learned how to use Gaia to generate the terrian
 - Ryan also learned how setup animation controllers
@@ -151,19 +159,73 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 - I did all the cutscenes, and programming
 
 #### Result
+
 - Won Best Narrative 
 - AND Best Use of Tech!
 
 #### Download Link
-- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion){:target="_blank"}
+
+- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion)
 
 ---
-### Global Game Jam 2018 - Transmission
-Tran - A Tron Spoof
-https://globalgamejam.org/2018/games/tran-tron-spoof
+### Global Game Jam 2018 - Tran (A Tron Spoof)
+
+![tran](images/tran.png)
+
+The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we decided to make a movie inspired entry based on Tron.  We took movie clips directly from both the 1982 version of the movie and the 2010 version of the movie and integrated them into our game to introduce each of our levels.  The effect of the movie clips makes the game seem more polished than it really is.  Also we used some really cool glow effects in all the levels that I feel really added a good look and feel to the game.  
+
+<https://en.wikipedia.org/wiki/Tron>
+
+#### Disclaimer
+
+
+
+#### Controls: 
+
+- Player 1: AWSD (QE)
+- Playser2: JKIL (OU)
+
 #### Developer Notes
-#### Statistics
-#### Download Link
+
+
+#### Contributors
+
+- *Programming* - Jon Worthington (me) and Jim Byer
+- *Modeling & Texturing* - Nathan Worthington (17 years old)
+- *Level Design* - Ryan Worthington (12 years old)
+- *Music* - Tony Spencer
+- *Sounds* - Cameron Byer
+
+#### Free Assets
+
+- MK Glow Free
+- Sprite Glow
+- Kino Bloom
+- Fungus
+- Cyber Soldier
+
+*Tron is copyrighted by Disney and used without permission in this Spoof / Fan Art.*
+
+#### Global Game Jam Link
+
+- [https://globalgamejam.org/2018/games/tran-tron-spoof
+](https://globalgamejam.org/2018/games/tran-tron-spoof)
+
+#### Game Play Video Link
+
+- [https://vimeo.com/253125566](https://vimeo.com/253125566)
+
+#### Play the game (Web GL)
+
+Below is a link to the WebGL build.  However not everything works in WebGL, and I haven't taken the time to fix the problems.  The game runs better when built as an .Exe (but for those who want to try it here is a link).
+
+- [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/)
+
+
+
+
+
+
 
 ---
 ### The Space Guardian - 2019 Global Game Jam  What home means to you
