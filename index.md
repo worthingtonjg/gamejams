@@ -1,6 +1,27 @@
 ## Welcome 
 
 This is a summary of all the games made by me, my kids and my friends at game jams or hackathons.  
+---
+### Shape Factory - 2022 Global Game Jam
+
+Shape Factory is an exciting 2 player factory matching game. Grab a friend and have fun racing to match all your shapes first! RULES: Shapes placed on the main conveyor belt must match the color or shape of the currently displayed shape above. If it doesn't match, you'll get a penalty, and more shapes will be added to your count. The shape and color you must match with will update and change to the shape or color of any valid shapes entered in. If none of your shapes match, you can go to the button at the top of your play area and press it to generate a new, random shape (but this will increase your block count, so use it wisely). The first player to match all of their shapes wins! CONTROLS: Blue Player/Left Player: WASD keys to move Space Bar to pick up/put down blocks, and push buttons Red Player/Right Player: Arrow keys to move Zero (on Num Pad) to pick up/put down blocks, and push buttons
+
+#### Challenges
+
+#### Contributors
+- Andrea Blake (Art and Level Design)
+- Jim Byer (Programming)
+- Jon Worthington (Programming)
+
+#### Globa Game Jam 2022 Page
+- [https://globalgamejam.org/2022/games/shape-factory-0(]https://globalgamejam.org/2022/games/shape-factory-0){:target="_blank"}
+
+#### Github Repo
+- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap){:target="_blank"}
+
+#### Play the game
+
+- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory){:target="_blank"}
 
 ---
 ### Dr Strange - 2021 Utah Indie Game Jam Entry 
