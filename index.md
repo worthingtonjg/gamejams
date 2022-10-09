@@ -167,18 +167,18 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 
 - [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion)
 
+
+
+
+
 ---
 ### Global Game Jam 2018 - Tran (A Tron Spoof)
 
 ![tran](images/tran.png)
 
-The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we decided to make a movie inspired entry based on Tron.  We took movie clips directly from both the 1982 version of the movie and the 2010 version of the movie and integrated them into our game to introduce each of our levels.  The effect of the movie clips makes the game seem more polished than it really is.  Also we used some really cool glow effects in all the levels that I feel really added a good look and feel to the game.  
+The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we decided to make a movie inspired entry based on Tron.  We took movie clips directly from both the 1982 version of the movie and the 2010 version of the movie and integrated them into our game to introduce each of our levels.   
 
 <https://en.wikipedia.org/wiki/Tron>
-
-#### Disclaimer
-
-
 
 #### Controls: 
 
@@ -187,6 +187,9 @@ The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we
 
 #### Developer Notes
 
+- The effect of the movie clips makes the game seem more polished than it really is.  
+- Also we used some really cool glow effects in all the levels that I feel really added a good look and feel to the game.
+- The free assets we used were: MK Glow Free, Sprite Glow, Kino Bloom, Fungus, Cyber Soldier
 
 #### Contributors
 
@@ -196,32 +199,25 @@ The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we
 - *Music* - Tony Spencer
 - *Sounds* - Cameron Byer
 
-#### Free Assets
-
-- MK Glow Free
-- Sprite Glow
-- Kino Bloom
-- Fungus
-- Cyber Soldier
-
 *Tron is copyrighted by Disney and used without permission in this Spoof / Fan Art.*
 
 #### Global Game Jam Link
 
-- [https://globalgamejam.org/2018/games/tran-tron-spoof
-](https://globalgamejam.org/2018/games/tran-tron-spoof)
+- [https://globalgamejam.org/2018/games/tran-tron-spoof](https://globalgamejam.org/2018/games/tran-tron-spoof)
 
 #### Game Play Video Link
 
 - [https://vimeo.com/253125566](https://vimeo.com/253125566)
+
+#### Github Repo
+
+- [https://github.com/worthingtonjg/tran-ggj2018](https://github.com/worthingtonjg/tran-ggj2018)
 
 #### Play the game (Web GL)
 
 Below is a link to the WebGL build.  However not everything works in WebGL, and I haven't taken the time to fix the problems.  The game runs better when built as an .Exe (but for those who want to try it here is a link).
 
 - [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/)
-
-
 
 
 
