@@ -205,7 +205,7 @@ In this VR game for the 48 hour game jam that had the theme: "What home means to
 
 The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we decided to make a movie inspired entry based on Tron.  We took movie clips directly from both the 1982 version of the movie and the 2010 version of the movie and integrated them into our game to introduce each of our levels.   
 
-<https://en.wikipedia.org/wiki/Tron>
+[https://en.wikipedia.org/wiki/Tron](https://en.wikipedia.org/wiki/Tron){:target="_blank"}
 
 #### Controls: 
 
