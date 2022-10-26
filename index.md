@@ -11,7 +11,7 @@ Below you will find the list of all the games I've made over the years in revers
 
 
 ---
-### The Labyrinth of Isolation
+### The Labyrinth of Isolation ~ TriJam #191 (October 2022)
 
 ![isolation](images/isolation.png)
 
