@@ -8,33 +8,9 @@ I have been making games for fun with friends and family at game jams and hackat
 Below you will find the list of all the games I've made over the years in reverse chronological order.
 
 ---
-### Murder at Hines Mansion
-
-![isolation](images/hines.png)
-
-This isn't a game jam game, but rather a murder mystery party game based on clue.  For my wife's 50th birthday we rented the Hines Mansion in Provo and had a dinner party where we played this game. We turned out all the lights and had puzzles and games scattered throughout the mansion that you had to solve to find clues.
-
-#### Developer Notes:
-
-- Each clue was a QR code you could scan to collect the clue
-- You could also trade clues by scanning each others QR codes
-- The app managed your clue sheet and hand automatically
-- The website is quite elaborate and has a backstory for the dinner party
-- We uploaded actual pictures of the guests
-- Overall it was a great success
-
-#### Github Repo
-
-- https://github.com/worthingtonjg/Hines2025
-
-#### Website
-
-- https://worthingtonjg.github.io/Hines2025/
-
----
 ### Bubble Racer
 
-![isolation](images/BubbleRacer.png)
+![bubble racer](images/BubbleRacer.png)
 
 My 12 year old daughter and I made this game for the 2025 Global Game Jam.
 
@@ -63,6 +39,30 @@ My 12 year old daughter and I made this game for the 2025 Global Game Jam.
 
 - https://mollydolly236.itch.io/bubble-racer
 
+
+---
+### Murder at Hines Mansion
+
+![hines mansion](images/hines.jpg)
+
+This isn't a game jam game, but rather a murder mystery party game based on clue.  For my wife's 50th birthday we rented the Hines Mansion in Provo and had a dinner party where we played this game. We turned out all the lights and had puzzles and games scattered throughout the mansion that you had to solve to find clues.
+
+#### Developer Notes:
+
+- Each clue was a QR code you could scan to collect the clue
+- You could also trade clues by scanning each others QR codes
+- The app managed your clue sheet and hand automatically
+- The website is quite elaborate and has a backstory for the dinner party
+- We uploaded actual pictures of the guests
+- Overall it was a great success
+
+#### Github Repo
+
+- https://github.com/worthingtonjg/Hines2025
+
+#### Website
+
+- https://worthingtonjg.github.io/Hines2025/
 
 ---
 ### Royal Remedy
