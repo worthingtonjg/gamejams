@@ -8,29 +8,88 @@ I have been making games for fun with friends and family at game jams and hackat
 Below you will find the list of all the games I've made over the years in reverse chronological order.
 
 ---
+### Murder at Hines Mansion
+
+![isolation](images/hines.png)
+
+This isn't a game jam game, but rather a murder mystery party game based on clue.  For my wife's 50th birthday we rented the Hines Mansion in Provo and had a dinner party where we played this game. We turned out all the lights and had puzzles and games scattered throughout the mansion that you had to solve to find clues.
+
+#### Developer Notes:
+
+- Each clue was a QR code you could scan to collect the clue
+- You could also trade clues by scanning each others QR codes
+- The app managed your clue sheet and hand automatically
+- The website is quite elaborate and has a backstory for the dinner party
+- We uploaded actual pictures of the guests
+- Overall it was a great success
+
+#### Github Repo
+
+- https://github.com/worthingtonjg/Hines2025
+
+#### Website
+
+- https://worthingtonjg.github.io/Hines2025/
+
+---
+### Bubble Racer
+
+![isolation](images/BubbleRacer.png)
+
+My 12 year old daughter and I made this game for the 2025 Global Game Jam.
+
+#### Results
+
+- Results: https://globalgamejam.org/group/11797/games
+
+#### Team:
+
+- Molly Worthington - thought of the idea, currated all the art work and sounds, choose all the colors, designed the race track
+- Jon Worthington - I did the programming and helped molly when she got stuck
+
+#### Developer Notes:
+
+- The theme for this game jame was "Bubbles".
+- Molly wanted thought it would be fun to create a racecar game where you collected bubbles to buy better race cars.
+- Your first car doesn't go very fast and is hard to control, but as you earn bubbles you can unlock better and faster cars.
+- I found that this runs okay on phones, so added touch controls
+- This was the first time I had used wheel collider physics in unity
+
+#### Github Repo
+
+- https://github.com/worthingtonjg/BubbleRacer
+
+#### Play the game
+
+- https://mollydolly236.itch.io/bubble-racer
+
+
+---
 ### Royal Remedy
 
 ![isolation](images/RoyalRemedy.png)
 
-I made this game with my son Nathan Worthington and my friend Jim Byer at the 2024 Utah Indie Game Jam.
+We made this game together with my son Nathan Worthington and my friend Jim Byer at the 2024 Utah Indie Game Jam.
 
 #### Results
 
-- We won the prize for most educational.  It also ranked 3rd in popularity for peoples choice
+- We didn't win any prizes, but did have fun making the game.
 - Results: https://itch.io/jam/utah-indie-game-jam-2024
 
 #### Team:
 
-- Nathan Worthington - Created all the art work, coded the the bottles, and fixed the solution algorithm
+- Nathan Worthington - Created all the art work, wrote the code for selecting the the bottles, and maded fixes to the solution algorithm
 - Jon Worthington - Programmed the Solution Log and created the Dialogs - tied it all together
 - Jim Byer - Programmed the main game loop
 
 #### Developer Notes:
 
-- My son nathan created all the artwork.  The desk and the shelves are actually 3d models just rendered in 2d which gives it a really cool effect.
-- Nathan also wrote the code that lets you select a potions to make your guess, and fixed the algorithm that checked your guess for a win state
-- I wrote the solution log control that keeps track of your guesses, and all the dialog for the game, and helped connect everything together in the final game.
-- Jim wrote the main game logic, and the algorithm for guesses against the win state
+- The theme of this game jam was "Double Agent"
+- The game we created is based on the old game of "Mastermind", you have a set number of turns to guess the sequence of colors.
+- Each time you make a guess you find out how many colors are right and how many are in the right place.
+- In Royal Remedy you play as the royal alchemist tasked with brewing the antidote to save the kings life - if you don't then are you the "Double Agent"?
+- The artwork for the desk and the shelves is interesting because nathan actually created 3d models and then just rendered it in 2d which gives it a really cool effect.
+- The game is fun and the dialog is witty.  If we had more time we would have had a character representing the king each time he tried a cure.
 
 #### Github Repo
 
@@ -63,6 +122,7 @@ My 12 year old daughter and I made this game for the 2024 Utah Indie Game Jam in
 - All the art work is free from the Unity asset store
 - During the jam I taught her to wire up the animations, the animation controllers, and about prefabs
 - I wrote all the code and she designed all the levels
+- This worked out so well, I have used this same set of code to teach a game design class
 
 #### Github Repo
 
