@@ -7,8 +7,70 @@ I have been making games for fun with friends and family at game jams and hackat
 
 Below you will find the list of all the games I've made over the years in reverse chronological order.
 
+---
+### Royal Remedy
 
+![isolation](images/RoyalRemedy.png)
 
+I made this game with my son Nathan Worthington and my friend Jim Byer at the 2024 Utah Indie Game Jam.
+
+#### Results
+
+- We won the prize for most educational.  It also ranked 3rd in popularity for peoples choice
+- Results: https://itch.io/jam/utah-indie-game-jam-2024
+
+#### Team:
+
+- Nathan Worthington - Created all the art work, coded the the bottles, and fixed the solution algorithm
+- Jon Worthington - Programmed the Solution Log and created the Dialogs - tied it all together
+- Jim Byer - Programmed the main game loop
+
+#### Developer Notes:
+
+- My son nathan created all the artwork.  The desk and the shelves are actually 3d models just rendered in 2d which gives it a really cool effect.
+- Nathan also wrote the code that lets you select a potions to make your guess, and fixed the algorithm that checked your guess for a win state
+- I wrote the solution log control that keeps track of your guesses, and all the dialog for the game, and helped connect everything together in the final game.
+- Jim wrote the main game logic, and the algorithm for guesses against the win state
+
+#### Github Repo
+
+- https://github.com/worthingtonjg/RoyalRemedy
+
+#### Play the game
+
+- https://cypherjw.itch.io/royal-remedy
+
+---
+### Tales of Halia
+
+![isolation](images/tales_of_halia.png)
+
+My 12 year old daughter and I made this game for the 2024 Utah Indie Game Jam in 72 hours.
+
+#### Results
+
+- We won the prize for most educational.  It also ranked 3rd in popularity for peoples choice
+- Results: https://itch.io/jam/utah-indie-game-jam-2024
+
+#### Team:
+
+- Jon Worthington - Programming and Teaching
+- Molly Worthington - Created the Music with BeepBox, Wired up all the animations and animation controllers, Helped create prefabs, Designed all the levels
+
+#### Developer Notes:
+
+- This was my 12 year old daughters first game jam.  
+- All the art work is free from the Unity asset store
+- During the jam I taught her to wire up the animations, the animation controllers, and about prefabs
+- I wrote all the code and she designed all the levels
+
+#### Github Repo
+
+- https://github.com/worthingtonjg/TalesOfHalia
+
+#### Play the game
+
+- https://mollydolly236.itch.io/tale-of-halia
 
 ---
 ### The Labyrinth of Isolation ~ TriJam #191 (October 2022)
@@ -20,7 +82,7 @@ This game was made in under 3 hours for TriJam #191.  Can you escape the Labyrin
 #### Results
 
 - Out of 25 entries, we got 10th overall and 6th for Gameplay.
-- Results: <https://itch.io/jam/trijam-191/results>{:target="_blank"}
+- Results: <https://itch.io/jam/trijam-191/results>
 
 #### Team:
 
@@ -37,11 +99,11 @@ This game was made in under 3 hours for TriJam #191.  Can you escape the Labyrin
 
 #### Github Repo
 
-- <https://github.com/worthingtonjg/Isolation>{:target="_blank"}
+- <https://github.com/worthingtonjg/Isolation>
 
 #### Play the game
 
-- <https://cypherjw.itch.io/labrynth-of-isolation>{:target="_blank"}
+- <https://cypherjw.itch.io/labrynth-of-isolation>
 
 
 
@@ -68,16 +130,16 @@ But some parts are easier than others, are you up for the challenge?
 
 - Out of 23 entries, we got 6th overall
 - We got the prize for "Best Gameplay"
-- Audience Choice: [https://itch.io/jam/utah-indie-game-jam-2022/results](https://itch.io/jam/utah-indie-game-jam-2022/results){:target="_blank"}
-- Awards: [https://itch.io/jam/utah-indie-game-jam-2022](https://itch.io/jam/utah-indie-game-jam-2022){:target="_blank"}
+- Audience Choice: [https://itch.io/jam/utah-indie-game-jam-2022/results](https://itch.io/jam/utah-indie-game-jam-2022/results)
+- Awards: [https://itch.io/jam/utah-indie-game-jam-2022](https://itch.io/jam/utah-indie-game-jam-2022)
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/BridgeWar](https://github.com/worthingtonjg/BridgeWar){:target="_blank"}
+- [https://github.com/worthingtonjg/BridgeWar](https://github.com/worthingtonjg/BridgeWar)
 
 #### Play the Game
 
-- [https://cypherjw.itch.io/space-repair-sim](https://cypherjw.itch.io/space-repair-sim){:target="_blank"}
+- [https://cypherjw.itch.io/space-repair-sim](https://cypherjw.itch.io/space-repair-sim)
 
 
 
@@ -118,15 +180,15 @@ Shape Factory is an exciting 2 player (split screen) factory matching game. Grab
 
 #### Global Game Jam 2022 Page
 
-- [https://globalgamejam.org/2022/games/shape-factory-0](https://globalgamejam.org/2022/games/shape-factory-0){:target="_blank"}
+- [https://globalgamejam.org/2022/games/shape-factory-0](https://globalgamejam.org/2022/games/shape-factory-0)
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap){:target="_blank"}
+- [https://github.com/worthingtonjg/blockswap](https://github.com/worthingtonjg/blockswap)
 
 #### Play the game
 
-- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory){:target="_blank"}
+- [https://cypherjw.itch.io/shape-factory](https://cypherjw.itch.io/shape-factory)
 
 
 
@@ -161,11 +223,11 @@ The theme for this 48 hour game jam was "Reincarnation".  Meet Dr. Strange!  He 
 - We won the award for Best Narrative.
 
 #### Github Repo
-- [https://github.com/worthingtonjg/UtahIndieGameJam2021](https://github.com/worthingtonjg/UtahIndieGameJam2021){:target="_blank"}
+- [https://github.com/worthingtonjg/UtahIndieGameJam2021](https://github.com/worthingtonjg/UtahIndieGameJam2021)
 
 #### Play the game
 
-- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange){:target="_blank"}
+- [https://cypherjw.itch.io/dr-strange](https://cypherjw.itch.io/dr-strange)
 
 
 
@@ -195,15 +257,15 @@ In Drift Racer choose from 8+ ships and race against your friends in this face p
 
 #### Global Game Jam Link
 
-- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6){:target="_blank"}
+- [https://globalgamejam.org/2020/games/alien-wars-6](https://globalgamejam.org/2020/games/alien-wars-6)
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer){:target="_blank"}
+- [https://github.com/worthingtonjg/DriftRacer](https://github.com/worthingtonjg/DriftRacer)
 
 #### Play the game
 
-- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/){:target="_blank"}
+- [https://worthingtonjg.github.io/DriftRacer/](https://worthingtonjg.github.io/DriftRacer/)
 
 
 
@@ -238,11 +300,11 @@ Play as love struck Jim whose only goal is to woo the princess Cindy, but takes 
 
 #### Gameplay Video
 
-- [https://www.youtube.com/watch?v=sUTJplUN3Lo&feature=emb_logo](https://www.youtube.com/watch?v=sUTJplUN3Lo&feature=emb_logo){:target="_blank"}
+- [https://www.youtube.com/watch?v=sUTJplUN3Lo&feature=emb_logo](https://www.youtube.com/watch?v=sUTJplUN3Lo&feature=emb_logo)
 
 #### Download Link
 
-- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion){:target="_blank"}
+- [https://cypherjw.itch.io/love-potion](https://cypherjw.itch.io/love-potion)
 
 
 
@@ -260,10 +322,10 @@ In this VR game for the 48 hour game jam that had the theme: "What home means to
 - Me, Jim Byer, Nathan and Ryan
 
 #### Global Game Jam Link
-- [https://globalgamejam.org/2019/games/space-guardian](https://globalgamejam.org/2019/games/space-guardian){:target="_blank"}
+- [https://globalgamejam.org/2019/games/space-guardian](https://globalgamejam.org/2019/games/space-guardian)
 
 #### Github Link
-- [https://github.com/worthingtonjg/GGJ2019](https://github.com/worthingtonjg/GGJ2019){:target="_blank"}
+- [https://github.com/worthingtonjg/GGJ2019](https://github.com/worthingtonjg/GGJ2019)
 
 
 
@@ -278,7 +340,7 @@ In this VR game for the 48 hour game jam that had the theme: "What home means to
 
 The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we decided to make a movie inspired entry based on Tron.  We took movie clips directly from both the 1982 version of the movie and the 2010 version of the movie and integrated them into our game to introduce each of our levels.   
 
-[https://en.wikipedia.org/wiki/Tron](https://en.wikipedia.org/wiki/Tron){:target="_blank"}
+[https://en.wikipedia.org/wiki/Tron](https://en.wikipedia.org/wiki/Tron)
 
 #### Controls: 
 
@@ -303,19 +365,19 @@ The theme of this 48 hour game jam was "Transmission".  Being computer nerds, we
 
 #### Global Game Jam Link
 
-- [https://globalgamejam.org/2018/games/tran-tron-spoof](https://globalgamejam.org/2018/games/tran-tron-spoof){:target="_blank"}
+- [https://globalgamejam.org/2018/games/tran-tron-spoof](https://globalgamejam.org/2018/games/tran-tron-spoof)
 
 #### Game Play Video Link
 
-- [https://vimeo.com/253125566](https://vimeo.com/253125566){:target="_blank"}
+- [https://vimeo.com/253125566](https://vimeo.com/253125566)
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/tran-ggj2018](https://github.com/worthingtonjg/tran-ggj2018){:target="_blank"}
+- [https://github.com/worthingtonjg/tran-ggj2018](https://github.com/worthingtonjg/tran-ggj2018)
 
 #### Play the game (WebGL)
 
-- [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/){:target="_blank"}
+- [https://worthingtonjg.github.io/tran-ggj2018/](https://worthingtonjg.github.io/tran-ggj2018/)
 - Note: Not everything works in the WebGL build, and I haven't taken the time to fix the problems.  The game runs better when built as an .Exe (but for those who want to try it here is a link).
 
 
@@ -346,7 +408,7 @@ Watch very poorly 2D render - ed talking heads say not-so-random quotes that are
 
 #### Links
 
-- [https://cypherjw.itch.io/talking-pacifists](https://cypherjw.itch.io/talking-pacifists){:target="_blank"}
+- [https://cypherjw.itch.io/talking-pacifists](https://cypherjw.itch.io/talking-pacifists)
 
 
 
@@ -377,7 +439,7 @@ A war has broken out across the United States. When you refuse to fight you are 
 
 #### Links
 
-- [https://nathanworthington.itch.io/prisoner-of-war](https://nathanworthington.itch.io/prisoner-of-war){:target="_blank"}
+- [https://nathanworthington.itch.io/prisoner-of-war](https://nathanworthington.itch.io/prisoner-of-war)
 
 
 
@@ -412,7 +474,7 @@ Either pay prove you are the best Penguin Pacifist!
 
 #### Links
 
-- [https://ryanwor.itch.io/perry-the-pacifist](https://ryanwor.itch.io/perry-the-pacifist){:target="_blank"}
+- [https://ryanwor.itch.io/perry-the-pacifist](https://ryanwor.itch.io/perry-the-pacifist)
 
 
 
@@ -432,7 +494,7 @@ Players are racing against each other to collect the most jokes and fill their j
 
 ### Gameplay Video
 
-[https://www.youtube.com/watch?v=mLil2ExB2pU](https://www.youtube.com/watch?v=mLil2ExB2pU){:target="_blank"}
+[https://www.youtube.com/watch?v=mLil2ExB2pU](https://www.youtube.com/watch?v=mLil2ExB2pU)
 
 ### Multiplayer data tracked on the server: 
 
@@ -470,11 +532,11 @@ Players are racing against each other to collect the most jokes and fill their j
 
 ### Gam Jam Site
 
-- [https://globalgamejam.org/2017/games/laugh-kingdom](https://globalgamejam.org/2017/games/laugh-kingdom){:target="_blank"}
+- [https://globalgamejam.org/2017/games/laugh-kingdom](https://globalgamejam.org/2017/games/laugh-kingdom)
 
 #### Github Repo
 
-- [https://github.com/worthingtonjg/laugh-kingdom](https://github.com/worthingtonjg/laugh-kingdom){:target="_blank"}
+- [https://github.com/worthingtonjg/laugh-kingdom](https://github.com/worthingtonjg/laugh-kingdom)
 
 
 
@@ -496,10 +558,10 @@ You must battle the zombies to protect our dimension from the infection in the h
 - We used the Hololens toolkit and Unity3d to develop for the hololens
 
 #### Youtube Video
-- [https://www.youtube.com/watch?v=og0EQzDLXaA](https://www.youtube.com/watch?v=og0EQzDLXaA){:target="_blank"}
+- [https://www.youtube.com/watch?v=og0EQzDLXaA](https://www.youtube.com/watch?v=og0EQzDLXaA)
 
 #### Download link
-- [https://cypherjw.itch.io/hololens-the-hidden-facility](https://cypherjw.itch.io/hololens-the-hidden-facility){:target="_blank"}
+- [https://cypherjw.itch.io/hololens-the-hidden-facility](https://cypherjw.itch.io/hololens-the-hidden-facility)
 
 
 
@@ -517,10 +579,10 @@ You must battle the zombies to protect our dimension from the infection in the h
 - Won Award for Most Educational
 
 #### Github Link
-- [https://github.com/worthingtonjg/SmoochThatFish](https://github.com/worthingtonjg/SmoochThatFish){:target="_blank"}
+- [https://github.com/worthingtonjg/SmoochThatFish](https://github.com/worthingtonjg/SmoochThatFish)
 
 #### Play Game
-- [https://worthingtonjg.github.io/SmoochThatFish](https://worthingtonjg.github.io/SmoochThatFish){:target="_blank"}
+- [https://worthingtonjg.github.io/SmoochThatFish](https://worthingtonjg.github.io/SmoochThatFish)
 
 
 
@@ -542,10 +604,10 @@ Also created at the 2016 Global Game Jam with the Relic them is Attack Bots!
 - This allowed Ryan to use the designer during the game jam to create a level using these modular pieces and prefabs.
 
 #### Github Link
-- [https://github.com/worthingtonjg/AttackBots](https://github.com/worthingtonjg/AttackBots){:target="_blank"}
+- [https://github.com/worthingtonjg/AttackBots](https://github.com/worthingtonjg/AttackBots)
 
 #### Play Game
-- [http://worthingtonjg.github.io/AttackBots/](http://worthingtonjg.github.io/AttackBots/){:target="_blank"}
+- [http://worthingtonjg.github.io/AttackBots/](http://worthingtonjg.github.io/AttackBots/)
 
 
 
@@ -565,10 +627,10 @@ The theme of this 48 hour game jam was “Ritual”.  The millenial rejuvination
 - I did the programming
 
 #### Global Game Jam Link
-- [https://globalgamejam.org/2016/games/relic-hunter](https://globalgamejam.org/2016/games/relic-hunter){:target="_blank"}
+- [https://globalgamejam.org/2016/games/relic-hunter](https://globalgamejam.org/2016/games/relic-hunter)
 
 #### GitHub Link
-- [https://github.com/worthingtonjg/RelicHunter](https://github.com/worthingtonjg/RelicHunter){:target="_blank"}
+- [https://github.com/worthingtonjg/RelicHunter](https://github.com/worthingtonjg/RelicHunter)
 
 #### Download Link
 - Unavailable
@@ -590,7 +652,7 @@ Running on a treadmill is not nearly as enjoyable as running outside. But due to
 - We had a great time at the Hackathon 
 
 #### Youtube Video
-- [https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s](https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s){:target="_blank"}
+- [https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s](https://www.youtube.com/watch?v=vnmaVJ6bn6k&t=5s)
 
 #### Download Link
 - Not available
@@ -616,13 +678,13 @@ The year is 2000 AO (After Oblivion). An alien race far superior in technology h
 - All the camera work and programming was me
 
 #### Itch.io Link
-- [https://cypherjw.itch.io/oblivion-the-secret-of-survival](https://cypherjw.itch.io/oblivion-the-secret-of-survival){:target="_blank"}
+- [https://cypherjw.itch.io/oblivion-the-secret-of-survival](https://cypherjw.itch.io/oblivion-the-secret-of-survival)
 
 #### Github Link
-- [https://github.com/worthingtonjg/survive_oblivion](https://github.com/worthingtonjg/survive_oblivion){:target="_blank"}
+- [https://github.com/worthingtonjg/survive_oblivion](https://github.com/worthingtonjg/survive_oblivion)
 
 #### Play the Game
-- [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/){:target="_blank"}
+- [http://worthingtonjg.github.io/survive_oblivion/](http://worthingtonjg.github.io/survive_oblivion/)
 
 
 
@@ -659,13 +721,13 @@ You wake up locked in a prison cell. You are plagued with repeated out of body l
 - Most the other art work was free from the asset store
 
 #### Github Link
-- [https://github.com/worthingtonjg/NoEscape](https://github.com/worthingtonjg/NoEscape){:target="_blank"}
+- [https://github.com/worthingtonjg/NoEscape](https://github.com/worthingtonjg/NoEscape)
 
 #### Global Game Jam Link
-- [https://globalgamejam.org/2015/games/no-escape](https://globalgamejam.org/2015/games/no-escape){:target="_blank"}
+- [https://globalgamejam.org/2015/games/no-escape](https://globalgamejam.org/2015/games/no-escape)
 
 #### Play the game
-- [http://worthingtonjg.github.io/NoEscape/](http://worthingtonjg.github.io/NoEscape/){:target="_blank"}
+- [http://worthingtonjg.github.io/NoEscape/](http://worthingtonjg.github.io/NoEscape/)
 
 
 
@@ -683,7 +745,7 @@ Manna Mania is a fun adventure game loosely based on events in the Old Testament
 - We won honorable mention
 
 #### Download Link
-- [https://www.microsoft.com/en-us/p/manna-mania](https://www.microsoft.com/en-us/p/manna-mania){:target="_blank"}
+- [https://www.microsoft.com/en-us/p/manna-mania](https://www.microsoft.com/en-us/p/manna-mania)
 
 
 
@@ -706,7 +768,7 @@ Amaze your friends and family by learning to solve the cube. You can compete aga
 
 #### Download Link
 
-- [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius){:target="_blank"}
+- [https://www.microsoft.com/en-us/p/cube-genius](https://www.microsoft.com/en-us/p/cube-genius)
 
 
 
@@ -728,7 +790,7 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 - This has been downloaded over **4000** times.
 
 #### Download Link
-- [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider){:target="_blank"}
+- [https://www.microsoft.com/en-us/p/sudoku-slider](https://www.microsoft.com/en-us/p/sudoku-slider)
 
 
 
@@ -753,7 +815,7 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 
 #### Download Link 
 
-- [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8){:target="_blank"}
+- [https://www.microsoft.com/en-us/p/sudokuwin8](https://www.microsoft.com/en-us/p/sudokuwin8)
 
 
 
@@ -776,7 +838,7 @@ Sudoku meets slider puzzle!  Playing of the success of SudokuWin8, this is a cha
 
 #### Download Link 
 
-- [https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards){:target="_blank"}
+- [https://www.microsoft.com/en-us/p/psychic-cards](https://www.microsoft.com/en-us/p/psychic-cards)
 
 
 
@@ -819,8 +881,7 @@ This was my first game that I published in the windows store.  The funny thing i
 
 #### Download Link 
 
-- [https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares){:target="_blank"}
-
+- [https://www.microsoft.com/en-us/p/metro-squares](https://www.microsoft.com/en-us/p/metro-squares)
 
 
 
